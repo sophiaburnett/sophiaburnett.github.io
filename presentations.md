@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "presentations"
 ---
 
 {% if site.show_excerpts %}

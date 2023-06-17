@@ -1,6 +1,6 @@
 title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+author: "Sophia Burnett"
+description: "The basic material is not the word but the letter."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"

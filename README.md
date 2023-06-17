@@ -6,7 +6,7 @@ layout: page
 
 ## Presentations
 
-Here are some tasty presentations nomnomnom
+
 
 
 

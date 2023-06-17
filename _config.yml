@@ -16,8 +16,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "sophia.pdf", title: "cv", icon: Home  }
-  - {file: "README.md", title: "About me", icon: address-card}
+  - {file: "sophia.pdf", title: "publications" }
+  - {file: "sophianatasha.md", title: "presentations"}
+  - {file: "README.md", title: "about me"}
+
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:sophiaburnett@cyu.fr"}

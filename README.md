@@ -11,16 +11,6 @@ My research uses any qualitative and quantitative methods that shine light upon 
 This year I am a nomadic dissertation writer and heavy tea drinker, dividing my time between Edinburgh, Paris, and Manchester. 
 
 
-##Blah
 
- - blah
-
-## Blahdiblah
-
-- things
-- 
-## Final blah
-
-Blah
 
 

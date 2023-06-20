@@ -6,7 +6,7 @@ Title: " "
 
 2022-21-09 Offsetting love and hate: The prosodic effects of the non-standard 1sg in tweets to Boris Johnson and Jeremy Corbyn over four days of the UK general election.
 <a>https://www.degruyter.com/document/doi/10.1515/eujal-2022-0012/html)https://www.degruyter.com/document/doi/10.1515/eujal-2022-0012/html</a>
-
+<object data="degruyter.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 
 ---

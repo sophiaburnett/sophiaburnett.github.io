@@ -6,4 +6,4 @@ layout: post
 
 Linguistic and cognitive functions of fine phonetic detail underlying sound systems and/or sound change
 
-Poster Presentation in situ In my humble opinion : The prosodic portrayal of the non-standard 1sg 
+In person poster presentation. [In my humble opinion : The prosodic portrayal of the non-standard 1sg](file:///D:/HisPhonCog/HISPhonCog2023_P64_Burnett_abstract.pdf) 

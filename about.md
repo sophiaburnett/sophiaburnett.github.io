@@ -7,9 +7,12 @@ I am a PhD candidate in language sciences at CY Cergy Paris Université. My doct
 <div id="audio-container"></div>
 <script>
   var sound = new Howl({
-  src: ['About_audio.mp3'],
-  html5: true
-});
+    src: ["About_audio.mp3"],
+    html5: true
+  });
+
+  var audioContainer = document.getElementById('audio-container');
+  audioContainer.innerHTML = '<button onclick="sound.play()">Play</button>';
 </script>
 
 

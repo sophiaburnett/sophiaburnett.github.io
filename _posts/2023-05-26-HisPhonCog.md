@@ -1,5 +1,5 @@
 ---
-title:  "HisphonCog 2023"
+title:  "HisPhonCog"
 layout: post
 ---
 [Hanyang International Symposium on Phonetics and Cognitive Sciences of Language.26-27 May, 2023](https://site.hanyang.ac.kr/web/hisphoncog/welcome) 

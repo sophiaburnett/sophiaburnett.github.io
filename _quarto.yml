@@ -1,0 +1,79 @@
+# This file controls the settings for your Quarto template from www.marvinschmitt.com
+
+# website settings
+website:
+  title: "Rasmus Puggaard-Rode"                                # Your name
+  image: img/my_image.jpg
+  
+   
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+     # your sub-pages
+    left:
+      - text: 'Research'
+        href: research/index.qmd
+      - text: "Academic output"
+        href: pubs/index.qmd
+      - text: "CV"
+        href: cv/index.qmd
+    
+    
+    # your social media handles
+    right:
+      - icon: twitter
+        href: https://twitter.com/RPuggaardRode
+      - icon: github
+        href: https://github.com/rpuggaardrode
+      - text: '{{< iconify academicons google-scholar >}}'
+        href: https://scholar.google.com/citations?user=HPWSLxAAAAAJ
+      - text: "{{< iconify academicons researchgate >}}"
+        href: https://www.researchgate.net/profile/Rasmus_Puggaard
+      - text: "{{< iconify academicons orcid >}}"
+        href: https://orcid.org/0000-0003-4522-9987
+      - text: "{{< iconify la university >}}"
+        href: https://www.en.phonetik.uni-muenchen.de/people/staff/puggaard-rode_rasmus/index.html
+      - icon: linkedin
+        href: https://www.linkedin.com/in/rasmus-puggaard-rode-1972957b/
+      - text: "{{< iconify simple-icons letterboxd >}}"
+        href: https://letterboxd.com/rpuggaardrode/
+      - text: "{{< iconify ri music-fill >}}"
+        href: https://rateyourmusic.com/~rasmuspuggaard
+      - text: "{{< iconify simple-icons untappd >}}"
+        href: https://untappd.com/user/Rasmuspuggaard
+      - icon: envelope
+        aria-label: email
+        href: "mailto:r.puggaard@phonetik.uni-muenchen.de" 
+  
+  
+  page-footer: 
+    left: |
+      <span class="faux-block"><a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">Quarto template used to make this website</a></span>
+    right: |
+      <span class="faux-block"><a href="https://github.com/marvinschmitt/quarto-website-template/">View source on GitHub</a></span>
+
+project:
+  type: website
+  output-dir: docs
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      - trestles
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true

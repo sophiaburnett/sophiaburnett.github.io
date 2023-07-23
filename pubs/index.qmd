@@ -1,0 +1,229 @@
+---
+format:
+  html:
+    toc: true
+    toc-location: left
+---
+
+## Publications
+
+### Books
+
+**Puggaard-Rode, Rasmus**. 2023. *Stop! Hey, what’s that sound? The representation and realization of Danish stops.* Amsterdam: Netherlands Graduate School of Linguistics. (LOT Dissertation Series 631). doi:10.48273/LOT0631. [open access](https://doi.org/10.48273/LOT0631){target="_blank"} | [data and code](https://doi.org/10.34894/FJKFD1){target="_blank"}
+
+### Journal articles (refereed)
+
+**Puggaard-Rode, Rasmus**. 2022. Analyzing time-varying spectral characteristics of speech with function-on-scalar regression. *Journal of Phonetics* 95. doi:10.1016/j.wocn.2022.101191. [open access](https://doi.org/10.1016/j.wocn.2022.101191){target="_blank"} | [data and code](https://doi.org/10.34894/DYJT4V){target="_blank"}
+
+**Puggaard-Rode, Rasmus**, Camilla Søballe Horslund & Henrik Jørgensen. 2022. The rarity of intervocalic voicing of stops in Danish spontaneous speech. *Laboratory Phonology* 13(11). doi:10.16995/labphon.6449. [open access](https://www.journal-labphon.org/article/id/6449/){target="_blank"} | [data and code](https://doi.org/10.34894/OSGTR8){target="_blank"}
+
+Horslund, Camilla Søballe, **Rasmus Puggaard-Rode** & Henrik Jørgensen. 2022. A phonetically-based phoneme analysis of the Danish consonant system. *Acta Linguistica Hafniensia* 54(1), 73--105. doi:10.1080/03740463.2021.2022866. [open access](https://hdl.handle.net/1887/3281884){target="_blank"}
+
+**Puggaard, Rasmus**. 2020. The grammar of giants. Late-stage debonding of *kæmpe* ‘giant’ in Danish. *Scandinavian Studies in Language* 11(2), 1--21. doi:10.7146/sss.v11i2.123476. [open access](https://tidsskrift.dk/sss/article/view/123476){target="_blank"} | [data](http://doi.org/10.34894/YXXNK3){target="_blank"}
+
+**Puggaard, Rasmus**. 2019. Flexibility of frequent clause openers in talk-in-interaction. *Det* ‘it, that’ and *så* ‘then’ in the prefield in Danish. *Nordic Journal of Linguistics* 42(3), 291--327. doi:10.1017/S0332586519000088. [open access](https://doi.org/10.1017/S0332586519000088){target="_blank"}
+
+**Puggaard, Rasmus**. 2018. Realizations of /t/ in Jutlandic dialects of Danish. *Linguistica Lettica* 26, 368--393. [pdf](https://rasmuspuggaard.files.wordpress.com/2019/12/2018_linguistica-lettica.pdf){target="_blank"}
+
+**Puggaard, Rasmus**. 2018. Telefoniske båndpasfiltres indflydelse på talergenkendelse. Høje frekvenser og dansk /t/. *Nydanske Sprogstudier* 54, 129--155. Special issue: *Anvendt sprogvidenskab*. doi:10.7146/nys.v1i54.107156. [open access](https://www.nys.dk/article/view/100580){target="_blank"}
+
+### Chapters in edited volumes
+
+**Puggaard-Rode, Rasmus**, Bert Botma & Janet Grijzenhout. 2023. Towards a quantized representation of phonological stop contrasts. In Florian Breit, Bert Botma, Marijn van ‘t Veer & Marc van Oostendorp (eds.), *Primitives of phonological structure* (Oxford Studies in Phonology & Phonetics). Oxford University Press. doi:10.1093/oso/9780198791126.003.0012. [access behind paywall](https://doi.org/10.1093/oso/9780198791126.003.0012){target='_blank'}
+
+**Puggaard, Rasmus**. 2021. Modeling regional variation in voice onset time of Jutlandic varieties of Danish. In Hans Van de Velde, Remco Knooihuizen & Nanna Haug Hilton (eds.), *Language variation. European perspectives VIII* (Studies in Language Variation 25), 79--110. John Benjamins. doi:10.1075/silv.25.04pug. [pdf](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target="_blank"} | [full volume](https://www.jbe-platform.com/content/books/9789027259820){target="_blank"} | [data and code](https://doi.org/10.34894/JHN1Q7){target="_blank"}
+
+**Puggaard, Rasmus**. 2020. The productive acquisition of dental obstruents by Danish learners of Chinese. In Chen Dongyan & Daniel Bell (eds.), *Explorations of Chinese theoretical and applied linguistics*, 168--195. Cambridge Scholars. [open access](https://hdl.handle.net/1887/3146417){target="_blank"}
+
+Steensig, Jakob, Karen Kiil Brøcker, Caroline Grønkjær, Magnus Glenvad Tind Hamann, **Rasmus Puggaard Hansen**, Maria Jørgensen, Mathias Høyer Kragelund, Nicholas Hedegaard Mikkelsen, Tina Mølgaard, Henriette Folkmann Pedersen, Søren Sandager Sørensen & Emilie Tholstrup. 2013. The DanTIN project. Creating a platform for describing the grammar of Danish talk-in-interaction. In Jan Heegård Petersen & Peter Juel Henrichsen (eds.), *New perspectives on speech in action* (Copenhagen Studies in Language 43), 195--225. Samfundslitteratur. [open access](https://openaccess.leidenuniv.nl/bitstream/handle/1887/64261/Steensig_et_al_2013_The_DanTIN_project.pdf){target='_blank'}
+
+### Articles in conference proceedings
+
+**Puggaard-Rode, Rasmus**. (accepted). The /t/ release in Jutland Danish. Decomposing the spectrum with functional PCA. In *Proceedings of the 20th International Congress of Phonetic Sciences*.
+
+Horslund, Camilla Søballe, Henrik Jørgensen & **Rasmus Puggaard**. 2021. En alternativ, fonetisk baseret fonemanalyse af det danske konsonantsystem. In Yonatan Goldshtein, Inger Schoonderbeek Hansen & Tina Thode Hougaard (eds.), *18. møde om udforskningen af dansk sprog*, 251--267. Aarhus University. [pdf](https://rasmuspuggaard.files.wordpress.com/2021/09/horslund-et-al-2021_en-alternativ-fonetisk-baseret-fonemanalyse-af-det-danske-konsonantsystem.pdf){target='_blank'} | [full volume](https://projekter.au.dk/fileadmin/projekter/Muds.dk/rapporter/MUDS_18.pdf){target='_blank'}
+
+**Puggaard, Rasmus**. 2019. Fundamentfeltet i danske samtaler. In Yonatan Goldshtein, Inger Schoonderbeek Hansen & Tina Thode Hougaard (eds.), *17. møde om udforskningen af dansk sprog*, 395--413. Aarhus University. [pdf](https://rasmuspuggaard.files.wordpress.com/2020/07/puggaard-2019_fundamentfeltet-i-danske-samtaler.pdf){target='_blank'} | [full volume](https://projekter.au.dk/fileadmin/projekter/Muds.dk/rapporter/Muds_17.pdf){target='_blank'}
+
+Sloos, Marjoleine, Liang Jie, Ne Xuechao, **Rasmus Puggaard Hansen**, Yan Mengzhu & Zhang Chun. 2015. Speech rhythm of the Danish-Chinese interlanguage relies on rhyme structure. In *Proceedings of the Oriental COCOSDA/CASLRE conference*, 305--310. Shanghai Jiaotong University. [open access](https://openaccess.leidenuniv.nl/bitstream/handle/1887/70171/Sloos_et_al_2015_Speech_rhythm_Danish_Chinese_interlanguage_rhyme_structure.pdf){target='_blank'}
+
+### Edited volumes
+
+Holtz, Annie, Iva Kovač & **Rasmus Puggaard-Rode** (eds.) 2022. *Proceedings of the 30th Conference of the Student Organization of Linguistics in Europe*. Leiden University Centre for Linguistics. [pdf](https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/console30-proceedings.pdf){target='_blank'}
+
+Holtz, Annie, Iva Kovač, **Rasmus Puggaard-Rode** & Joanna Wall (eds.) 2021. *Proceedings of the 29th Conference of the Student Organization of Linguistics in Europe*. Leiden University Centre for Linguistics. [pdf](https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxix.pdf){target='_blank'}
+
+### Journal articles (non-refereed)
+
+**Puggaard, Rasmus**. 2020. A Semiotic Grammar account of copula clauses in Danish. *Skrifter om Samtalegrammatik* 7(4). [pdf](https://samtalegrammatik.dk/fileadmin/samtalegrammatik/sos/7/Puggaard_2020_A_Semiotic_Grammar_account_of_copula_clauses_in_Danish.pdf){target='_blank'}
+
+Goldshtein, Yonatan & **Rasmus Puggaard**. 2019. Overblik over danske dialektoptagelser. *Ord & Sag* 39, 18--28. [pdf](https://rasmuspuggaard.files.wordpress.com/2020/07/2019_ordsag.pdf){target='_blank'} | [full volume](https://jysk.au.dk/fileadmin/www.jysk.au.dk/publikationer/centrets_publikationer/ord___sag_26_-/ordsag39.pdf){target='_blank'}
+
+## Presentations
+
+### Conference and workshop presentations
+
+[see [Puggaard-Rode 2023: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
+**Puggaard-Rode, Rasmus**. "The /t/ release in Jutland Danish. Decomposing the spectrum with functional PCA". *International Congress of Phonetic Sciences* 20, August 7--11, 2023, Prague Congress Center.
+
+[see [Goldshtein & Puggaard 2019](https://rasmuspuggaard.files.wordpress.com/2020/07/2019_ordsag.pdf){target='_blank'}, [Puggaard 2021](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target='_blank'}, and [Puggaard-Rode 2023: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
+**Puggaard-Rode, Rasmus**. "Covariation between fine phonetic detail and outcomes of sound change in the microtypology of Jutland Danish dialects". *Hanyang International Symposium on Phonetics and Cognitive Sciences of Language* 3, May 26--27, 2023, Hanyang University, Seoul. [abstract](https://rasmuspuggaard.files.wordpress.com/2023/03/2023_hisphoncog.pdf){target='_blank'} | [slides](https://rasmuspuggaard.files.wordpress.com/2023/05/2023_hisphoncog_slides.pdf){target='_blank'}
+
+Horslund, Camilla Søballe, **Rasmus Puggaard-Rode** & Henrik Jørgensen. “Glossematics vs Glossematics. A discussion of some phonological analyses by Hjelmslev and Uldall in the light of glossematic theory”. *Rebooting Glossematics*, November 29--30, 2022, Royal Danish Academy of Sciences and Letters, Copenhagen. [abstract](https://rasmuspuggaard.files.wordpress.com/2022/12/2022_rebooting-glossematics.pdf){target='_blank'} | [slides](https://rasmuspuggaard.files.wordpress.com/2022/12/2022_rebooting-glossematics-slides.pdf){target='_blank'}
+
+[see [Puggaard-Rode et al. 2022](https://doi.org/10.16995/labphon.6449){target='_blank'} and [Puggaard-Rode 2023: chapters 4 and 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
+**Puggaard-Rode, Rasmus**, Camilla Søballe Horslund & Henrik Jørgensen. “Closure voicing in Danish stops. Phonetics, phonology, variation, and history”, *Phonetics and Phonology in Denmark* 3, November 17--18, 2022, University of Copenhagen. [abstract](https://rasmuspuggaard.files.wordpress.com/2022/11/2022_ppdk.pdf){target='_blank'} | [slides](https://rasmuspuggaard.files.wordpress.com/2022/11/2022_ppdk-slides.pdf){target='_blank'}
+
+[see [Puggaard-Rode 2023: chapters 3, 4, and 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
+**Puggaard-Rode, Rasmus**, Henrik Jørgensen & Camilla Søballe Horslund. “Consonant gradation in Southern Scandinavia. A sound law and its outcome”, *Fonologi i Norden* 7, January 13--14, 2022, virtual meeting hosted at Aarhus University. [abstract](https://rasmuspuggaard.files.wordpress.com/2021/12/fino2022-abstract.pdf){target='_blank'} | [slides](https://rasmuspuggaard.files.wordpress.com/2022/01/2022_fino.pdf){target='_blank'}
+
+[see [Horslund et al. 2021](https://rasmuspuggaard.files.wordpress.com/2021/09/horslund-et-al-2021_en-alternativ-fonetisk-baseret-fonemanalyse-af-det-danske-konsonantsystem.pdf){target='_blank'}, [2022](https://doi.org/10.1080/03740463.2021.2022866){target='_blank'} and [Puggaard-Rode 2023: chapter 3](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
+Horslund, Camilla Søballe, **Rasmus Puggaard** & Henrik Jørgensen. “An alternative, phonetically based phoneme analysis of the Danish consonant system”, *Establishing phoneme boundaries. Argumentation and cross-linguistic comparability*, workshop at *International Conference of Nordic and General Linguistics* 12, June 14--18, 2021, virtual meeting hosted at University of Oslo. [abstract](https://rasmuspuggaard.files.wordpress.com/2021/02/2021_ngl.pdf){target='_blank'} | [slides](https://rasmuspuggaard.files.wordpress.com/2022/01/2021_ngl-slides.pdf){target='_blank'}
+
+[see [Puggaard-Rode et al. 2022](https://doi.org/10.16995/labphon.6449){target='_blank'} and [Puggaard-Rode 2023: chapter 4](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
+**Puggaard, Rasmus**, Camilla Søballe Horslund & Henrik Jørgensen. “Intervocalic voicing of Danish stops”, *Phonetics and Phonology in Denmark* 2, November 31--December 1, 2020, virtual meeting hosted at Aarhus University. [abstract](https://rasmuspuggaard.files.wordpress.com/2020/09/2020_ppdk.pdf){target='_blank'} | [slides](https://rasmuspuggaard.files.wordpress.com/2022/01/2020_ppdk-slides.pdf){target='_blank'}
+
+[see [Puggaard-Rode 2023: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
+**Puggaard, Rasmus**. “Affrikation af klusiler i jyske dialekter”, *Møde om Udforskningen af det Danske Sprog* 18, October 8--9, 2020, virtual meeting hosted at Aarhus University. [abstract](https://rasmuspuggaard.files.wordpress.com/2020/09/2020_muds18_puggaard.pdf){target='_blank'} | [slides](https://rasmuspuggaard.files.wordpress.com/2022/01/2020_muds_puggaard.pdf){target='_blank'}
+
+[see [Horslund et al. 2021](https://rasmuspuggaard.files.wordpress.com/2021/09/horslund-et-al-2021_en-alternativ-fonetisk-baseret-fonemanalyse-af-det-danske-konsonantsystem.pdf){target='_blank'}, [2022](https://doi.org/10.1080/03740463.2021.2022866){target='_blank'} and [Puggaard-Rode 2023: chapter 3](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
+Horslund, Camilla Søballe, **Rasmus Puggaard** & Henrik Jørgensen. “En alternativ, fonetisk baseret fonemanalyse af det danske konsonantsystem”, *Møde om Udforskningen af det Danske Sprog* 18, October 8--9, 2020, virtual meeting hosted at Aarhus University. [abstract](https://rasmuspuggaard.files.wordpress.com/2020/09/muds18.pdf){target='_blank'} | [slides](https://rasmuspuggaard.files.wordpress.com/2022/01/2020_muds_horslund-et-al.pdf){target='_blank'}
+
+[see [Goldshtein & Puggaard 2019](https://rasmuspuggaard.files.wordpress.com/2020/07/2019_ordsag.pdf){target='_blank'}, [Puggaard 2021](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target='_blank'}, and [Puggaard-Rode 2023: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
+**Puggaard, Rasmus** & Yonatan Goldshtein. “Realization and representation of plosives in Jutlandic varieties of Danish. Variation in phonetics predicts variation in phonology”, *Laboratory Phonology* 17, July 5--9, 2020, virtual meeting hosted at University of British Columbia, Vancouver. [abstract](https://rasmuspuggaard.files.wordpress.com/2020/03/2020_labphon.pdf){target='_blank'} | [handout](https://rasmuspuggaard.files.wordpress.com/2020/07/2020_labphon.pdf){target='_blank'} | [slides](https://rasmuspuggaard.files.wordpress.com/2022/01/2020_labphon.pdf){target='_blank'} | [video](https://youtu.be/u8ZVkTOBzt4){target='_blank'}
+
+[see [Goldshtein & Puggaard 2019](https://rasmuspuggaard.files.wordpress.com/2020/07/2019_ordsag.pdf){target='_blank'}, [Puggaard 2021](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target='_blank'}, and [Puggaard-Rode 2023: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
+**Puggaard, Rasmus**. “Plosives in weak prosodic positions in Jutlandic Danishes. Variation in realization or representation?”, *Fonologi i Norden* 5, February 21--22, 2020, University of South-Eastern Norway, Drammen. [abstract](https://rasmuspuggaard.files.wordpress.com/2019/12/2020_fino.pdf){target='_blank'} | [slides](https://rasmuspuggaard.files.wordpress.com/2022/01/2020_fonologi-i-norden.pdf){target='_blank'}
+
+**Puggaard, Rasmus**, Janet Grijzenhout & Bert Botma. “The acoustics of phonological contrast. Fortis and lenis stops in Danish and Dutch”, *Phonetik und Phonologie Tagung* 15, September 26--27, 2019, Heinrich-Heine University, Düsseldorf. [abstract](https://rasmuspuggaard.files.wordpress.com/2019/12/2019_pp-tagung-abstract.pdf){target='_blank'}
+
+Botma, Bert, Janet Grijzenhout & **Rasmus Puggaard**. “Aspiration and contrast. Phrase-medial bilabial stops in Danish, Dutch, and German”, *Grote Taaldag*, February 2, 2019, Utrecht University. [abstract](https://rasmuspuggaard.files.wordpress.com/2019/12/2019_grote-taaldag.pdf){target='_blank'}
+
+Steensig, Jakob, Søren Sandager Sørensen, Andrea Bruun, Sidsel Holm, Amalie Vonge Jensen, Ehm Hjorth Miltersen, Maria Jørgensen, Mari-Liis Schmidt & **Rasmus Puggaard**. “Next steps and methodological problems in the development of a complete grammar of Danish talk-in-interaction”, 2-hour workshop hosted at *Nordic Interdisciplinary Conference on Discourse and Interaction* 5, November 21--23, 2018, Aarhus University.
+
+[see [Puggaard 2018](https://rasmuspuggaard.files.wordpress.com/2019/12/2018_thesis.pdf){target='_blank'}, [2019a](https://rasmuspuggaard.files.wordpress.com/2020/07/puggaard-2019_fundamentfeltet-i-danske-samtaler.pdf){target='_blank'}, and [2019b](https://www.cambridge.org/core/journals/nordic-journal-of-linguistics/article/flexibility-of-frequent-clause-openers-in-talkininteraction-det-it-that-and-sa-then-in-the-prefield-in-danish/0236EEC9BB112EB186D1E5CE40F7C970#fndtn-information){target='_blank'}]{.aside}
+**Puggaard, Rasmus**. “Fundamentfeltets funktion i danske samtaler”, *Møde om Udforskningen af det Danske Sprog* 17, October 11--12, 2018, Aarhus University. [abstract](https://rasmuspuggaard.files.wordpress.com/2019/12/2018_muds.pdf){target='_blank'} | [slides](https://rasmuspuggaard.files.wordpress.com/2022/01/2018_muds-slides.pdf){target='_blank'}
+
+[see [Puggaard 2018](https://rasmuspuggaard.files.wordpress.com/2019/12/2018_linguistica-lettica.pdf){target='_blank'}, [2021](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target='_blank'}, and [2023: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
+**Puggaard, Rasmus**. “Realizations of /t/ in Jutlandic dialects of Danish”, *Contemporary Research in Phonetics and Phonology: Methods, aspects, and problems* 4, May 11--12, 2017, Latvian Academy of Sciences, Rīga. [abstract](https://rasmuspuggaard.files.wordpress.com/2019/12/2017_cripap.pdf){target='_blank'} | [slides](https://rasmuspuggaard.files.wordpress.com/2022/01/2017_jutlandic-t_cripap.pdf){target='_blank'}
+
+[see [Puggaard 2020](https://hdl.handle.net/1887/3146417){target='_blank'}]{.aside}
+**Puggaard, Rasmus**. “How do Danish L2 learners produce the distinction between *tai--cai--zai*?”, *International Symposium on Chinese Theoretical and Applied Linguistics* 1, December 10-12, 2015, Newcastle University. [abstract](https://rasmuspuggaard.files.wordpress.com/2019/12/2015_isoctal-abstract.pdf){target='_blank'} | [slides](https://rasmuspuggaard.files.wordpress.com/2022/01/2015_isoctal.pdf){target='blank'}
+
+[see [Steensig et al. 2013](https://openaccess.leidenuniv.nl/bitstream/handle/1887/64261/Steensig_et_al_2013_The_DanTIN_project.pdf){target='_blank'}]{.aside}
+Steensig, Jakob, Tina Mølgaard, **Rasmus Puggaard Hansen**, Emilie Tholstrup, Nicholas Hedegaard Mikkelsen, Caroline Grønkjær, Magnus Glenvad Tind Hamann, Mathias Høyer Kragelund, Henriette Folkmann Pedersen, Karen Kiil Brøcker, Søren Sandager Sørensen & Maria Jørgensen. “A multiple approach matrix for describing grammar in interaction”, One-hour workshop hosted at *SJUSK -- Symposium on Contemporary Speech Habits and Pronunciation Patterns* 2, March 18--20, 2013, Copenhagen Business School.
+
+### Posters
+
+[see [Puggaard-Rode 2022](https://doi.org/10.1016/j.wocn.2022.101191){target='_blank'}, [2023: chapter 5](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
+**Puggaard-Rode, Rasmus**. “Time-varying spectral characteristics of Danish stop releases”, *Coping with the complexity in speech production and perception*, July 4--8, 2022, Haus Chorin.
+[abstract](https://rasmuspuggaard.files.wordpress.com/2022/05/2022_groningen-speech-lab.pdf){target='_blank'} | [poster](https://rasmuspuggaard.files.wordpress.com/2022/07/2022_chorin.pdf){target='_blank'}
+
+[see [Puggaard-Rode 2023: chapter 3](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
+**Puggaard-Rode, Rasmus**, Camilla Søballe Horslund & Henrik Jørgensen. “Modern Standard Danish stop gradations explained diachronically”, *Edinburgh Symposium on Historical Phonology* 5, December 6--8, 2021, virtual meeting hosted at University of Edinburgh. [abstract](https://rasmuspuggaard.files.wordpress.com/2021/11/esohp-abstract.pdf){target='_blank'} | [paper](https://rasmuspuggaard.files.wordpress.com/2021/12/eshp-5-poster.pdf){target='_blank'}
+
+Grijzenhout, Janet, **Rasmus Puggaard** & Bert Botma. “Laryngeal timing relationships in Germanic. A Q Theory approach”, *Berkeley Linguistics Society -- Phonological Representations. At the Crossroad between Gradience and Categoricity*, February 7--8, 2020, University of California -- Berkeley. [abstract](https://rasmuspuggaard.files.wordpress.com/2019/12/2020_bls.pdf){target='_blank'} | [poster](https://rasmuspuggaard.files.wordpress.com/2020/02/2020_berkeley-linguistics-society.pdf){target='_blank'}
+
+[see [Goldshtein & Puggaard 2019](https://rasmuspuggaard.files.wordpress.com/2020/07/2019_ordsag.pdf){target='_blank'}, [Puggaard 2021](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target='_blank'}, and [Puggaard-Rode 2023: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
+**Puggaard, Rasmus**. “Regional variation in plosive realization in Danish”, *Dag van de Fonetiek*, December 13, 2019, University of Amsterdam. [abstract](https://rasmuspuggaard.files.wordpress.com/2019/12/regional-variation-in-plosive-realization-in-danish_r1.pdf){target='_blank'} | [poster](https://rasmuspuggaard.files.wordpress.com/2019/12/2019_dag-van-de-fonetiek.pdf){target='_blank'}
+
+[see [Goldshtein & Puggaard 2019](https://rasmuspuggaard.files.wordpress.com/2020/07/2019_ordsag.pdf){target='_blank'}, [Puggaard 2021](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target='_blank'}, and [Puggaard-Rode 2023: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
+**Puggaard, Rasmus**. “Microvariation in stop realization as a regional feature of Danish”, *International Conference on Language Variation in Europe* 10, June 26--28, 2019, Frisian Academy, Leeuwarden. [abstract](https://rasmuspuggaard.files.wordpress.com/2019/12/2019_iclave_solo-poster.pdf){target='_blank'} | [poster](https://rasmuspuggaard.files.wordpress.com/2019/12/soloposter.pdf){target='_blank'}
+
+[see [Goldshtein & Puggaard 2019](https://rasmuspuggaard.files.wordpress.com/2020/07/2019_ordsag.pdf){target='_blank'}, [Puggaard 2021](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target='_blank'}, and [Puggaard-Rode 2023: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
+**Puggaard, Rasmus** & Yonatan Goldshtein. “Large-scale corpus-based analysis of regional varieties of Danish”, *International Conference on Language Variation in Europe* 10, June 26--28, 2019, Frisian Academy, Leeuwarden. [abstract](https://rasmuspuggaard.files.wordpress.com/2019/12/2019_iclave_puggaard-goldshtein.pdf){target='_blank'} | [poster](https://rasmuspuggaard.files.wordpress.com/2019/12/puggaard-goldshtein.pdf){target='_blank'}
+
+[see [Sloos et al. 2015](https://openaccess.leidenuniv.nl/bitstream/handle/1887/70171/Sloos_et_al_2015_Speech_rhythm_Danish_Chinese_interlanguage_rhyme_structure.pdf){target='_blank'}]{.aside}
+Sloos, Marjoleine, Liang Jie, Ne Xuechao, **Rasmus Puggaard Hansen**, Yan Mengzhu & Zhang Chun. “Speech rhythm of the Danish-Chinese interlanguage relies on rhyme structure”, *Conference on Asian Spoken Language Research and Evaluation* 2, October 28--30, 2015, Jiaotong University, Shanghai.
+
+### Invited talks
+
+[see [Goldshtein & Puggaard 2019](https://rasmuspuggaard.files.wordpress.com/2020/07/2019_ordsag.pdf){target='_blank'}, [Puggaard 2021](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target='_blank'}, and [Puggaard-Rode 2023: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
+**Puggaard, Rasmus**. “Variation i udtalen af jyske klusiler. En korpusundersøgelse”, *Sproglig variation og sproghistorie*, December 9, 2019, Aarhus University. [slides](https://rasmuspuggaard.files.wordpress.com/2022/01/2019_sproglig-variation-og-sproghistorie.pdf){target='_blank'}
+
+Steensig, Jakob & **Rasmus Puggaard**. “A syntax for conversation. Social action formats and/or abstract clause models?”, *DanTIN Day. The 10th anniversary celebration of the DanTIN group*, November 13, 2019, Aarhus University.
+
+### Departmental talks and guest lectures
+
+[see [Puggaard-Rode 2023](https://lingmethodshub.github.io/content/R/getVOT-tutorial/){target='_blank'}]{.aside}
+**Puggaard-Rode, Rasmus**. “`getVOT`, or: How I learned to stop hand-annotating and love the computer”, *Sounds of Language and Speech*, June 6, 2023, Aarhus University. [slides](https://rpuggaardrode.github.io/getVOT-pres/#1){target='_blank'}
+
+[see [Goldshtein & Puggaard 2019](https://rasmuspuggaard.files.wordpress.com/2020/07/2019_ordsag.pdf){target='_blank'}, [Puggaard 2021](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target='_blank'}, and [Puggaard-Rode 2023: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
+**Puggaard-Rode, Rasmus**. “Covariation between fine phonetic detail and outcomes of sound change in the microtypology of Jutland Danish dialects”, Institute for Phonetics and Speech Processing PhD and Postdoc Kolloquium, May 11, 2023, Ludwig Maximilian University of Munich.
+
+[see [Puggaard-Rode 2022](https://doi.org/10.1016/j.wocn.2022.101191){target='_blank'}, [2023: chapters 5 and 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
+**Puggaard-Rode, Rasmus**. “Analyzing the spectrum with functional data analysis”, Institute for Phonetics and Speech Processing PhD and Postdoc Kolloquium, December 8, 2022, Ludwig Maximilian University of Munich. [slides](https://rasmuspuggaard.files.wordpress.com/2022/12/2022_ips-erc-kolloquim.pdf){target='_blank'}
+
+**Puggaard-Rode, Rasmus**. “Data management and data sharing. The linguistics perspective”, guest lecture at data management training course for graduate students, November 3, 2022, Leiden University Centre for Linguistics. Course coordinator: Kristina Hettne.
+
+**Puggaard-Rode, Rasmus**. “Hans Basbøll’s Sonority Syllable Model”, guest lecture given in MA course *Advanced Phonology 2*, March 17, 2022, Leiden University. Course coordinator: Bert Botma.
+
+[see [Horslund et al. 2021](https://rasmuspuggaard.files.wordpress.com/2021/09/horslund-et-al-2021_en-alternativ-fonetisk-baseret-fonemanalyse-af-det-danske-konsonantsystem.pdf){target='_blank'}, [2022](https://doi.org/10.1080/03740463.2021.2022866){target='_blank'} and [Puggaard-Rode 2023: chapter 3](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
+**Puggaard-Rode, Rasmus**. “The synchrony and diachrony of Modern Standard Danish stop-glide alternations”, *Tromsø/Verona Fall Activites in Phonology*, October 18, 2021, virtual colloquium hosted at The Arctic University of Norway -- Tromsø. [slides](https://rasmuspuggaard.files.wordpress.com/2022/01/2021_tromso.pdf){target='_blank'}
+
+[see [Puggaard-Rode 2022](https://doi.org/10.1016/j.wocn.2022.101191){target='_blank'}, [2023: chapters 5](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
+**Puggaard-Rode, Rasmus**. “Holistic analysis of Danish stop releases. \*slaps roof of functional regression model\* this bad boy can fit so many dimensions in it”, *Sounds of Language and Speech*, September 22, 2021, virtual colloquium hosted at Aarhus University. [slides](https://rasmuspuggaard.files.wordpress.com/2022/01/2021_phonphon.pdf){target='_blank'}
+
+[see [Goldshtein & Puggaard 2019](https://rasmuspuggaard.files.wordpress.com/2020/07/2019_ordsag.pdf){target='_blank'}, [Puggaard 2021](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target='_blank'}, and [Puggaard-Rode 2023: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
+**Puggaard-Rode, Rasmus**. “Delayed dialectology with legacy corpora”, September 10, 2021, Leiden University Centre for Linguistics.
+
+[see [Puggaard 2021](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target='_blank'}, [Puggaard-Rode et al. 2022](https://doi.org/10.16995/labphon.6449){target='_blank'}, and [Puggaard-Rode 2023: chapters 4 and 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
+**Puggaard, Rasmus**. “Stop! Hey, what’s that sound? Everybody, look what’s going down! or: what the last three years have taught me about Danish stops, luckily including something we did not already know, and including a radical proposal about how some of this may be underlyingly represented”, *Verona Spring Activities in Phonology*, May 10, 2021, virtual colloquium hosted at University of Verona. [slides](https://rasmuspuggaard.files.wordpress.com/2022/01/2021_prx2.pdf){target='_blank'}
+
+**Puggaard, Rasmus**. “Hans Basbøll’s Sonority Syllable Model”, guest lecture given in MA course *Advanced Phonology 2*, March 17, 2021, Leiden University. Course coordinator: Bert Botma.
+
+**Puggaard, Rasmus**. “Data management and data sharing. The linguist’s perspective”, guest lecture at data management training course for graduate students, November 23, 2020, Leiden University Centre for Linguistics. Course coordinator: Fieke Schoots.
+
+**Puggaard, Rasmus**. “Looking into stops. Phonological representation below the level of the segment”, *Sounds of Language and Speech*, October 26, 2020, virtual colloquium hosted at Aarhus University. [slides](https://rasmuspuggaard.files.wordpress.com/2022/01/2020_phonphon.pdf){target='_blank'}
+
+Grijzenhout, Janet, **Rasmus Puggaard** & Bert Botma. “On pees and bees”, opening lecture for the academic year, BA English Language & Culture, September 3, 2019, Leiden University.
+
+[see [Goldshtein & Puggaard 2019](https://rasmuspuggaard.files.wordpress.com/2020/07/2019_ordsag.pdf){target='_blank'}, [Puggaard 2021](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target='_blank'}, and [Puggaard-Rode 2023: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
+**Puggaard, Rasmus**. “Regional microvariation in Danish stop consonants”, Leiden University Centre for Linguistics PhD symposium, November 16, 2018, Leiden University.
+
+[see [Puggaard](https://rasmuspuggaard.files.wordpress.com/2019/12/2018_linguistica-lettica.pdf){target='_blank'}, [2021](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target='_blank'}, [Goldshtein & Puggaard 2019](https://rasmuspuggaard.files.wordpress.com/2020/07/2019_ordsag.pdf){target='_blank'}, , and [Puggaard-Rode 2023: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
+**Puggaard, Rasmus**. “Realization of /t/ in Jutlandic dialects of Danish”, *Sounds of Language and Speech*, June 2, 2017, Aarhus University.
+
+## Other output
+
+### Software
+
+`getVOT`. *Predict voice onset time*. R package version 0.0.1 (June 2023). [Available on GitHub](https://github.com/rpuggaardrode/getVOT){target='_blank'}.
+
+`emuhelpeR`. *Convenience functions for working with* `emuR`. R package version 0.0.6 (April 2023). [Available on GitHub](https://github.com/rpuggaardrode/emuhelpeR){target='_blank'}.
+
+`phonfeatures`. *Assign features to phonetic characters*. R package version 0.1.2 (March 2023). [Available on GitHub](https://github.com/rpuggaardrode/phonfeatures){target='_blank'}.
+
+### Tutorials
+
+**Rasmus Puggaard-Rode**. 2023. Predicting VOT-related landmarks in R with `getVOT`. *Linguistics Methods Hub*. doi:10.5281/zenodo.8039257. [link](https://lingmethodshub.github.io/content/R/getVOT-tutorial/){target='_blank'}
+
+### Theses
+
+*The function of the foundation field in Danish talk-in-interaction. On the intersection of interactional organization, information structure, and syntactic coding*. MA thesis, Aarhus University. Supervised by Jakob Steensig. [pdf](https://rasmuspuggaard.files.wordpress.com/2019/12/2018_thesis.pdf){target='_blank'}
+
+*The productive acquisition of dental obstruents by Danish learners of Chinese*. BA thesis, Aarhus University. Supervised by William McGregor. [pdf](https://rasmuspuggaard.files.wordpress.com/2020/12/2016_bachelor.pdf){target='_blank'}
+
+### Blog posts
+
+(2022/12/30) "En mystisk genudgivelse af en klassisk lærebog i fonetik". Review of Steffen Heger's *Elementær dansk fonetik*, 3rd ed., for [Lingoblog](https://www.lingoblog.dk/en-mystisk-genudgivelse-af-en-klassisk-laerebog-i-fonetik/){target='_blank'}.
+
+(2022/04/25) "When consonants become vowels. A view from Danish and Dutch". [Leiden Language Blog](https://leidenlanguageblog.nl/articles/when-consonants-become-vowels){target='_blank'}.
+
+(2020/05/12) "Hvordan kunne et lydnært dansk skriftsprog se ud?" [Lingoblog](http://www.lingoblog.dk/hvordan-kunne-et-lydnaert-dansk-skriftsprog-se-ud/){target='_blank'}.
+
+(2020/02/18) "Er Oscar’erne ikke længere #SoEnglish?" [Lingoblog](http://www.lingoblog.dk/er-oscarerne-ikke-laengere-soenglish/){target='_blank'}.
+
+(2019/12/17) "En på alle måder tung julegave: Anmeldelse af vestgrønlandsk grammatik". Review of Flemming A.J. Nielsen's *Vestgrønlandsk grammatik* for [Lingoblog](http://www.lingoblog.dk/en-paa-alle-maader-tung-julegave-anmeldelse-af-vestgroenlandsk-grammatik/){target='_blank'}.
+
+(2018/04/19) "En lingvists Belgien-eventyr: Et semester på KU Leuven". [Lingoblog](http://www.lingoblog.dk/en-lingvists-belgien-eventyr/){target='_blank'}.
+
+### Media appearances
+
+(2022/07/27) Interview with the PhonPod podcast. Available on [Spotify](https://t.co/E2gCPXFI5W){target='_blank'}, [Amazon Music](https://t.co/pk22dgcLPB){target='_blank'}, [Stitcher](https://t.co/uBfn7fsP4G){target='_blank'}, and [AnchorFM](https://t.co/a5B01abOOI){target='_blank'}.
+
+(2022/05/30) Interview with [Zetland](https://www.zetland.dk/historie/soGxgkn1-moNV0jb3-14cd4?fbclid=IwAR3VffpLbrpWDeZu_tLvCgvgAmc6G5FGgywOoX4rNGZoezslPsjRbl3B9fs){target='_blank'}: "Ska vi staav’ soem vi taal’r? Når vi prøver, gør det os klogere på sproget". 
+
+(2020/05/19) Report on [sproget.dk](https://sproget.dk/nyheder/lydnaert-skriftsprog){target='_blank'} about a blog post of mine: "Tanker om et lydnært skriftsprog".
+
+(2019/09/24) Interview with [Studenterbrød](https://studenterbroed.dk/2019/09/24/den-italienske-froe-siger-noget-andet-end-danske-froe/){target='_blank'}: "Hvorfor siger den italienske frø ikke som den danske frø?"

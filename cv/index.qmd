@@ -1,0 +1,322 @@
+---
+format:
+  html:
+    toc: true
+    toc-location: left
+    toc-depth: 4
+---
+
+## Academic positions
+
+[2022--]{.aside}
+Postdoctoral research scientist <br> **Institute for Phonetics and Speech Processing, Ludwig Maximilian University, Munich** 
+
+[2021--2022]{.aside}
+Two fixed-term part-time positions as lecturer <br> **Amsterdam Center for Language and Communication, University of Amsterdam**
+
+[2018--2022]{.aside}
+PhD fellow <br> **Leiden University Centre for Linguistics**
+
+[2013--2017]{.aside}
+Various teaching and research assistant positions <br> **School of Culture and Society, Aarhus University**
+
+## Education
+
+[2023]{.aside}
+**PhD** in Linguistics <br> **Leiden University**
+
+[2018]{.aside}
+**MA** in Linguistics <br> **Aarhus University**
+
+[2016]{.aside}
+**BA** in Linguistics and China Studies <br> **Aarhus University**
+
+## Internationalization
+
+[2020]{.aside}
+**The Arctic University of Norway -- Tromsø** <br>
+Center for Advanced Studies in Linguistics <br>
+3 month research visit
+
+[2018]{.aside}
+**Aarhus University** <br>
+Peter Skautrup Centre for Jutlandic Dialect Research <br>
+2 month research visit
+
+[2017--2018]{.aside}
+**KU Leuven** <br>
+ResMA Advanced Studies in Linguistics <br>
+Full semester exchange
+
+[2016]{.aside}
+**Peking University** <br>
+European--Chinese Language and Culture Programme <br>
+Full semester exchange
+
+## Grants and awards
+
+[2020]{.aside} 
+William Demant Fonden travel grant, €800 (annulled due to COVID-19 outbreak) <br>
+Leids Universiteits Fonds travel grant, €1.600 #fix line break issue
+
+[2017]{.aside}
+Aarhus University Arts travel grant, €550
+
+[2015]{.aside}
+Aarhus University Arts travel grant, €800 <br>
+Aarhus University Linguistics Department travel grant, €200
+
+## Conference and workshop organization
+
+[2021]{.aside}
+*Conference of the Student Organization of Linguistics in Europe* 29 <br>
+Digital meeting hosted at Leiden University, 26--28 January
+
+[2018]{.aside}
+*Nordic Interdisciplinary Conference on Discourse and Interaction* 5 <br>
+Aarhus University, 21--23 November
+
+[2015]{.aside}
+*Bias in Auditory Perception* <br>
+Aarhus University, 18--20 September
+
+## Reviewing
+
+#### Journal articles
+
+*Nydanske Sprogstudier* (2023) <br>
+*Computational Intelligence and Neuroscience* (2022) <br>
+*Glossa* (2021)
+
+#### Proceedings articles
+
+*International Congress of Phonetic Sciences* (2023) <br>
+*Møderne om udforskningen af det danske sprog* (2019, 2021)
+
+#### Conference abstracts
+
+*Laboratory Phonology* (2022) <br>
+*Phonology in the Nordic Countries* (2021)
+
+## Other service
+
+#### Professional service and outreach
+
+[2021--2023]{.aside}
+Board member of *[Student Organization of Linguistics in Europe](https://www.universiteitleiden.nl/en/events/series/sole){target="_blank"}*
+
+[2017--2018]{.aside}
+High school presentations with the *Danish Talk-in-Interaction* (DanTIN) group
+
+[2014--2015]{.aside}
+Research assistant for the *Cognitive Creolistics* project at Aarhus University
+
+[2014]{.aside}
+Establishing and editing working papers journal *[Skrifter om Samtalegrammatik](https://samtalegrammatik.dk/tidsskrift){target="_blank"}*
+
+[2013--2018]{.aside}
+Establishing and editing [samtalegrammatik.dk](https://samtalegrammatik.dk){target="_blank"}
+
+#### University service
+
+[2017]{.aside}
+Student member of grade appeal board
+
+[2015--2018]{.aside}
+Exercises with new students during intro week in BA Linguistics, Aarhus University
+
+[2014]{.aside}
+Mentor for new undergraduate students in BA Linguistics, Aarhus University
+
+[2013]{.aside}
+Organizing and hosting intro week for new undergraduate students in BA Linguistics, Aarhus University
+
+## Professional memberships
+
+[2023--]{.aside}
+[International Phonetic Association](https://www.internationalphoneticassociation.org/){target="_blank"}
+
+[2021--]{.aside}
+[Association for Laboratory Phonology](https://labphon.org/){target="_blank"}
+
+## Affiliated research networks
+
+[2022--]{.aside}
+[Empirical Foundations of Phonology (EmpiPhon)](https://aclc.uva.nl/content/research-groups/empiphon/empiphon.html){target="_blank"}
+
+[2020--2022]{.aside}
+Open Science Community, Leiden
+
+[2020--2021]{.aside}
+Tromsø/Verona phonology circle
+
+[2017--]{.aside}
+[Sounds of Language and Speech](https://soundsoflanguageandspeech.wordpress.com/){target="_blank"} (Aarhus University)
+
+[2015]{.aside}
+Danish-accented Chinese (Aarhus University)
+
+[2013--2018]{.aside}
+Danish Talk-in-Interaction (DanTiN)
+
+## Languages
+
+**Danish**: Native.
+
+**English**: Full professional proficiency.
+
+**Dutch**: Did coursework to B1 level (2018--2019), good active proficiency and very high passive proficiency.
+
+**German**: 3 years of elementary school courses (2005--2008), decent active proficiency and very high passive proficiency.
+
+**Standard Chinese**: Did coursework to B2 level (2014--2016), very rusty but can communicate and read at a basic level.
+
+**Norwegian**: Fluent reading and very high passive proficiency.
+
+**Swedish**: Near-fluent reading and decent passive proficiency.
+
+**Icelandic**: Followed intense summer school (2015), basic reading skills.
+
+**French**: Basic reading skills.
+
+**Castilian Spanish**: 3 years of high school courses (2008-2011) but very low proficiency.
+
+**Arabic**: Followed evening school course (2014), some passive knowledge but no proficiency.
+
+## Coding and technical skills
+
+`R`: High proficiency. <br>
+Data processing, plotting, acoustic analysis, typesetting (with RMarkdown and Quarto), package preparation and maintenance, and statistical analysis (see below).
+
+`Praat`: High proficiency. <br>
+Acoustic analysis, scripting.
+
+`LaTeX`: Decent proficiency. <br>
+Typesetting, figures, plotting.
+
+`Git`: Decent proficiency. <br>
+Version control, collaborative projects.
+
+`VBA`: Basic proficiency. <br>
+Data preprocessing.
+
+`bash`: Basic proficiency. <br>
+Various types of task automatization.
+
+`HTML`: Basic proficiency.
+
+`Python`: Basic proficiency.
+
+## Statistical expertise
+
+Linear and logistic (mixed) models <br>
+Generalized additive (mixed) models <br>
+Functional (mixed) models <br>
+Growth curve analysis <br>
+(Functional) principal component analysis <br>
+Multiple correspondence analysis
+
+## Teaching
+
+### Full term courses
+
+#### Ludwig Maximilian University, Munich
+
+[2023]{.aside}
+*Phonetics and statistics* <br>
+BA3 Phonetics and Speech Processing <br>
+Taught seminars, graded weekly exercises <br>
+Course coordinator: James Kirby
+
+#### University of Amsterdam
+
+[2022]{.aside}
+*Introduction to linguistics* <br>
+BA1 Linguistics <br>
+Taught seminars (two groups), graded final presentations <br>
+Course coordinator: Enoch O. Aboh
+
+[2021]{.aside}
+*Phonetics* <br>
+BA1 Linguistics <br>
+Taught seminars (two groups) in a hybrid format, graded weekly exercises <br>
+Course coordinator: Marijn van 't Veer <br>
+*Nominated for the Faculty of Humanities Education Award 2022*
+
+[2021]{.aside}
+*Phonology* <br>
+BA2 Linguistics <br>
+Taught seminars in a hybrid format, graded exercises and final presentations <br>
+Course coordinator: Silke Hamann <br>
+*Nominated for the Faculty of Humanities Education Award 2022*
+
+#### Leiden University
+
+[2022]{.aside}
+*Words, sentences, and sounds in interaction* <br>
+BA3 English Language & Culture <br>
+Co-taught and co-coordinated with Janet Grijzenhout
+
+[2022]{.aside}
+*Analyzing English words and sounds* <br>
+BA1 English Language & Culture <br>
+Taught seminars (two groups) and gave one lecture <br>
+Course coordinators: Bert Botma and Marion Elenbaas
+
+[2019--2021]{.aside}
+*The phonetics of English* <br>
+BA1 English Language & Culture <br>
+2019: Taught seminars <br>
+2020: Taught seminars (three groups in person, one group online) and gave one online lecture <br>
+2021: Taught seminars in the first block <br>
+Course coordinator: Bert Botma
+
+#### Aarhus University
+
+[2016]{.aside}
+*Understanding linguistics* <br>
+BA1 Linguistics <br>
+Taught seminars (two groups) <br>
+Course coordinator: William McGregor
+
+[2014]{.aside}
+*Structure, meaning, and use* <br>
+BA2 Linguistics <br>
+Teaching assistant, gave feedback on assignments <br>
+Course coordinator: Jan Rijkhoff
+
+[2014]{.aside}
+*Danish and the languages of the World* <br>
+BA1 Linguistics <br>
+Teaching assistant, gave feedback on assignments <br>
+Course coordinator: Line Krogager Andersen
+
+[2013]{.aside}
+*Phonetics and phonology* <br>
+BA1 Linguistics <br>
+Taught seminars (three groups), graded assignments <br>
+Course coordinator: Marjoleine Sloos
+
+### Workshops
+
+[2017]{.aside}
+*Acoustics and Praat* <br>
+3-hour workshop <br>
+Department of Linguistics, Aarhus University
+
+### Guest lectures
+
+[2021--2022]{.aside}
+*Advanced phonology 2* <br>
+MA Linguistics, Leiden University <br>
+Course coordinator: Bert Botma
+
+[2020--2022]{.aside}
+*Data management* <br>
+Centre for Linguistics graduate school, Leiden University <br>
+Course coordinators: Fieke Schoots and Kristina Hettne
+
+### Evaluation
+
+[2021]{.aside}
+Two BA theses in BA English Language & Culture, Leiden University

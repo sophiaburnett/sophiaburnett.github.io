@@ -16,7 +16,7 @@ format:
 [<font size='3' color='grey'>2022--</font>]{.column-sidebar}
 [Postdoctoral research scientist <br> **Institute for Phonetics and Speech Processing, Ludwig Maximilian University, Munich**]{.column-body}
 
-[2021--2022]{.column-sidebar}
+[<font size='3' color='grey'>2021--2022</font>]{.column-sidebar}
 [Two fixed-term part-time positions as lecturer <br> **Amsterdam Center for Language and Communication, University of Amsterdam**]{.column-body}
 
 [2018--2022]{.column-sidebar}

@@ -8,7 +8,7 @@ format:
 
 ## Academic positions
 
-[2022--]{.aside}
+[2022-- <br>]{.aside}
 Postdoctoral research scientist <br> **Institute for Phonetics and Speech Processing, Ludwig Maximilian University, Munich** 
 
 [2021--2022]{.aside}

@@ -517,14 +517,6 @@ window.document.addEventListener("DOMContentLoaded", function (_event) {
     });
   }
 
-  const hideOverlappedSidebars = () => {
-    marginScrollVisibility(toRegions(rightSideConflictEls));
-    sidebarScrollVisiblity(toRegions(leftSideConflictEls));
-    if (tocLeftScrollVisibility) {
-      tocLeftScrollVisibility(toRegions(leftSideConflictEls));
-    }
-  };
-
   window.quartoToggleReader = () => {
     // Applies a slow class (or removes it)
     // to update the transition speed

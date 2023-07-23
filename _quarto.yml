@@ -77,7 +77,7 @@ format:
     fig-cap-location: margin
     reference-location: margin
     footnotes-hover: true
-    grid: 
-      sidebar-width: 300px
-      margin-width: 300px
-      body-width: 700px
+    grid:
+      sidebar-width: 280px
+      margin-width: 250px
+      body-width: 770px

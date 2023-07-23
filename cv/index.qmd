@@ -1,11 +1,6 @@
 ---
 format:
   html:
-    grid: 
-      sidebar-width: 350px
-      margin-width: 350px
-      body-width: 900px
-      gutter-width: 2.5em
     toc: true
     toc-location: right
     toc-depth: 3

@@ -1,9 +1,13 @@
 ---
 format:
   html:
+    grid: 
+      sidebar-width: 350px
+      margin-width: 350px
+      gutter-width: 2.5em
     toc: true
     toc-location: right
-    toc-depth: 4
+    toc-depth: 3
 ---
 
 ## Academic positions
@@ -12,81 +16,81 @@ format:
 [Postdoctoral research scientist <br> **Institute for Phonetics and Speech Processing, Ludwig Maximilian University, Munich**]{.column-body}
 
 [2021--2022]{.column-sidebar}
-Two fixed-term part-time positions as lecturer <br> **Amsterdam Center for Language and Communication, University of Amsterdam**
+[Two fixed-term part-time positions as lecturer <br> **Amsterdam Center for Language and Communication, University of Amsterdam**]{.column-body}
 
 [2018--2022]{.column-sidebar}
-PhD fellow <br> **Leiden University Centre for Linguistics**
+[PhD fellow <br> **Leiden University Centre for Linguistics**]{.column-body}
 
 [2013--2017]{.column-sidebar}
-Various teaching and research assistant positions <br> **School of Culture and Society, Aarhus University**
+[Various teaching and research assistant positions <br> **School of Culture and Society, Aarhus University**]{.column-body}
 
 ## Education
 
 [2023]{.column-sidebar}
-**PhD** in Linguistics <br> **Leiden University**
+[**PhD** in Linguistics <br> **Leiden University**]{.column-body}
 
 [2018]{.column-sidebar}
-**MA** in Linguistics <br> **Aarhus University**
+[**MA** in Linguistics <br> **Aarhus University**]{.column-body}
 
 [2016]{.column-sidebar}
-**BA** in Linguistics and China Studies <br> **Aarhus University**
+[**BA** in Linguistics and China Studies <br> **Aarhus University**]{.column-body}
 
 ## Internationalization
 
-[2020]{.aside}
-**The Arctic University of Norway -- Tromsø** <br>
+[2020]{.column-sidebar}
+[**The Arctic University of Norway -- Tromsø** <br>
 Center for Advanced Studies in Linguistics <br>
-3 month research visit
+3 month research visit]{.column-body}
 
-[2018]{.aside}
-**Aarhus University** <br>
+[2018]{.column-sidebar}
+[**Aarhus University** <br>
 Peter Skautrup Centre for Jutlandic Dialect Research <br>
-2 month research visit
+2 month research visit]{.column-body}
 
-[2017--2018]{.aside}
-**KU Leuven** <br>
+[2017--2018]{.column-sidebar}
+[**KU Leuven** <br>
 ResMA Advanced Studies in Linguistics <br>
-Full semester exchange
+Full semester exchange]{.column-body}
 
-[2016]{.aside}
-**Peking University** <br>
+[2016]{.column-sidebar}
+[**Peking University** <br>
 European--Chinese Language and Culture Programme <br>
-Full semester exchange
+Full semester exchange]{.column-body}
 
 ## Grants and awards
 
-[2020]{.aside} 
-William Demant Fonden travel grant, €800 (annulled due to COVID-19 outbreak) <br>
-Leids Universiteits Fonds travel grant, €1.600 #fix line break issue
+[2020]{.column-sidebar} 
+[William Demant Fonden travel grant, €800 (annulled due to COVID-19 outbreak) <br>
+Leids Universiteits Fonds travel grant, €1.600]{.column-body}
 
-[2017]{.aside}
-Aarhus University Arts travel grant, €550
+[2017]{.column-sidebar}
+[Aarhus University Arts travel grant, €550]{.column-body}
 
-[2015]{.aside}
-Aarhus University Arts travel grant, €800 <br>
-Aarhus University Linguistics Department travel grant, €200
+[2015]{.column-sidebar}
+[Aarhus University Arts travel grant, €800 <br>
+Aarhus University Linguistics Department travel grant, €200]{.column-body}
 
 ## Conference and workshop organization
 
-[2021]{.aside}
-*Conference of the Student Organization of Linguistics in Europe* 29 <br>
-Digital meeting hosted at Leiden University, 26--28 January
+[2021]{.column-sidebar}
+[*Conference of the Student Organization of Linguistics in Europe* 29 <br>
+Digital meeting hosted at Leiden University, 26--28 January]{.column-body}
 
-[2018]{.aside}
-*Nordic Interdisciplinary Conference on Discourse and Interaction* 5 <br>
-Aarhus University, 21--23 November
+[2018]{.column-sidebar}
+[*Nordic Interdisciplinary Conference on Discourse and Interaction* 5 <br>
+Aarhus University, 21--23 November]{.column-body}
 
-[2015]{.aside}
-*Bias in Auditory Perception* <br>
-Aarhus University, 18--20 September
+[2015]{.column-sidebar}
+[*Bias in Auditory Perception* <br>
+Aarhus University, 18--20 September]{.column-body}
 
 ## Reviewing
 
 #### Journal articles
 
-*Nydanske Sprogstudier* (2023) <br>
 *Computational Intelligence and Neuroscience* (2022) <br>
-*Glossa* (2021)
+*Glossa* (2021) <br>
+*Nydanske Sprogstudier* (2023)
 
 #### Proceedings articles
 
@@ -102,110 +106,116 @@ Aarhus University, 18--20 September
 
 #### Professional service and outreach
 
-[2021--2023]{.aside}
-Board member of *[Student Organization of Linguistics in Europe](https://www.universiteitleiden.nl/en/events/series/sole){target="_blank"}*
+[2021--2023]{.column-sidebar}
+[Board member of *[Student Organization of Linguistics in Europe](https://www.universiteitleiden.nl/en/events/series/sole){target="_blank"}*]{.column-body}
 
-[2017--2018]{.aside}
-High school presentations with the *Danish Talk-in-Interaction* (DanTIN) group
+[2017--2018]{.column-sidebar}
+[High school presentations with the *Danish Talk-in-Interaction* (DanTIN) group]{.column-body}
 
-[2014--2015]{.aside}
-Research assistant for the *Cognitive Creolistics* project at Aarhus University
+[2014--2015]{.column-sidebar}
+[Research assistant for the *Cognitive Creolistics* project at Aarhus University]{.column-body}
 
-[2014]{.aside}
-Establishing and editing working papers journal *[Skrifter om Samtalegrammatik](https://samtalegrammatik.dk/tidsskrift){target="_blank"}*
+[2014]{.column-sidebar}
+[Establishing and editing working papers journal *[Skrifter om Samtalegrammatik](https://samtalegrammatik.dk/tidsskrift){target="_blank"}*]{.column-body}
 
-[2013--2018]{.aside}
-Establishing and editing [samtalegrammatik.dk](https://samtalegrammatik.dk){target="_blank"}
+[2013--2018]{.column-sidebar}
+[Establishing and editing [samtalegrammatik.dk](https://samtalegrammatik.dk){target="_blank"}]{.column-body}
 
 #### University service
 
-[2017]{.aside}
-Student member of grade appeal board
+[2017]{.column-sidebar}
+[Student member of grade appeal board]{.column-body}
 
-[2015--2018]{.aside}
-Exercises with new students during intro week in BA Linguistics, Aarhus University
+[2015--2018]{.column-sidebar}
+[Exercises with new students during intro week in BA Linguistics, Aarhus University]{.column-body}
 
-[2014]{.aside}
-Mentor for new undergraduate students in BA Linguistics, Aarhus University
+[2014]{.column-sidebar}
+[Mentor for new undergraduate students in BA Linguistics, Aarhus University]{.column-body}
 
-[2013]{.aside}
-Organizing and hosting intro week for new undergraduate students in BA Linguistics, Aarhus University
+[2013]{.column-sidebar}
+[Organizing and hosting intro week for new undergraduate students in BA Linguistics, Aarhus University]{.column-body}
 
 ## Professional memberships
 
-[2023--]{.aside}
-[International Phonetic Association](https://www.internationalphoneticassociation.org/){target="_blank"}
+[2023--]{.column-sidebar}
+[[International Phonetic Association](https://www.internationalphoneticassociation.org/){target="_blank"}]{.column-body}
 
-[2021--]{.aside}
-[Association for Laboratory Phonology](https://labphon.org/){target="_blank"}
+[2021--]{.column-sidebar}
+[[Association for Laboratory Phonology](https://labphon.org/){target="_blank"}]{.column-body}
 
 ## Affiliated research networks
 
-[2022--]{.aside}
-[Empirical Foundations of Phonology (EmpiPhon)](https://aclc.uva.nl/content/research-groups/empiphon/empiphon.html){target="_blank"}
+[2022--]{.column-sidebar}
+[[Empirical Foundations of Phonology (EmpiPhon)](https://aclc.uva.nl/content/research-groups/empiphon/empiphon.html){target="_blank"}]{.column-body}
 
-[2020--2022]{.aside}
-Open Science Community, Leiden
+[2020--2022]{.column-sidebar}
+[Open Science Community, Leiden]{.column-body}
 
-[2020--2021]{.aside}
-Tromsø/Verona phonology circle
+[2020--2021]{.column-sidebar}
+[Tromsø/Verona phonology circle]{.column-body}
 
-[2017--]{.aside}
-[Sounds of Language and Speech](https://soundsoflanguageandspeech.wordpress.com/){target="_blank"} (Aarhus University)
+[2017--]{.column-sidebar}
+[[Sounds of Language and Speech](https://soundsoflanguageandspeech.wordpress.com/){target="_blank"} (Aarhus University)]{.column-body}
 
-[2015]{.aside}
-Danish-accented Chinese (Aarhus University)
+[2015]{.column-sidebar}
+[Danish-accented Chinese (Aarhus University)]{.column-body}
 
-[2013--2018]{.aside}
-Danish Talk-in-Interaction (DanTiN)
+[2013--2018]{.column-sidebar}
+[Danish Talk-in-Interaction (DanTiN)]{.column-body}
 
 ## Languages
 
-**Danish**: Native.
+**Danish**: Native
 
-**English**: Full professional proficiency.
+**English**: Full professional proficiency
 
-**Dutch**: Did coursework to B1 level (2018--2019), good active proficiency and very high passive proficiency.
+**Dutch**: Passive proficiency very high, active proficiency good <br>
+Coursework to B1 level in 2018--2019
 
-**German**: 3 years of elementary school courses (2005--2008), decent active proficiency and very high passive proficiency.
+**German**: Passive proficiency very high, active proficiency decent <br>
+3 years of elementary school courses in 2005--2008
 
-**Standard Chinese**: Did coursework to B2 level (2014--2016), very rusty but can communicate and read at a basic level.
+**Standard Chinese**: Decent reading, basic passive and communicative proficiency <br>
+Coursework to B2 level in 2014--2016
 
-**Norwegian**: Fluent reading and very high passive proficiency.
+**Norwegian**: Fluent reading and very high passive proficiency
 
-**Swedish**: Near-fluent reading and decent passive proficiency.
+**Swedish**: Near-fluent reading and decent passive proficiency
 
-**Icelandic**: Followed intense summer school (2015), basic reading skills.
+**Icelandic**: Basic reading skills <br>
+Followed intense summer school (2015)
 
-**French**: Basic reading skills.
+**French**: Basic reading skills
 
-**Castilian Spanish**: 3 years of high school courses (2008-2011) but very low proficiency.
+**Castilian Spanish**: Very low proficiency <br>
+3 years of high school courses (2008--2011)
 
-**Arabic**: Followed evening school course (2014), some passive knowledge but no proficiency.
+**Arabic**: Some passive knowledge but no proficiency <br>
+Followed evening school course (2014)
 
 ## Coding and technical skills
 
-`R`: High proficiency. <br>
-Data processing, plotting, acoustic analysis, typesetting (with RMarkdown and Quarto), package preparation and maintenance, and statistical analysis (see below).
+`R`: High proficiency <br>
+Data processing, plotting, acoustic analysis, typesetting (with RMarkdown and Quarto), package preparation and maintenance, and statistical analysis (see below)
 
-`Praat`: High proficiency. <br>
-Acoustic analysis, scripting.
+`Praat`: High proficiency <br>
+Acoustic analysis, scripting
 
-`LaTeX`: Decent proficiency. <br>
-Typesetting, figures, plotting.
+`LaTeX`: Decent proficiency <br>
+Typesetting, figures, plotting
 
-`Git`: Decent proficiency. <br>
-Version control, collaborative projects.
+`Git`: Decent proficiency <br>
+Version control, collaborative projects
 
-`VBA`: Basic proficiency. <br>
-Data preprocessing.
+`VBA`: Basic proficiency <br>
+Data preprocessing
 
-`bash`: Basic proficiency. <br>
-Various types of task automatization.
+`bash`: Basic proficiency <br>
+Various types of task automatization
 
-`HTML`: Basic proficiency.
+`HTML`: Basic proficiency
 
-`Python`: Basic proficiency.
+`Python`: Basic proficiency
 
 ## Statistical expertise
 
@@ -222,101 +232,101 @@ Multiple correspondence analysis
 
 #### Ludwig Maximilian University, Munich
 
-[2023]{.aside}
-*Phonetics and statistics* <br>
+[2023]{.column-sidebar}
+[*Phonetics and statistics* <br>
 BA3 Phonetics and Speech Processing <br>
 Taught seminars, graded weekly exercises <br>
-Course coordinator: James Kirby
+Course coordinator: James Kirby]{.column-body}
 
 #### University of Amsterdam
 
-[2022]{.aside}
-*Introduction to linguistics* <br>
+[2022]{.column-sidebar}
+[*Introduction to linguistics* <br>
 BA1 Linguistics <br>
 Taught seminars (two groups), graded final presentations <br>
-Course coordinator: Enoch O. Aboh
+Course coordinator: Enoch O. Aboh]{.column-body}
 
-[2021]{.aside}
-*Phonetics* <br>
+[2021]{.column-sidebar}
+[*Phonetics* <br>
 BA1 Linguistics <br>
 Taught seminars (two groups) in a hybrid format, graded weekly exercises <br>
 Course coordinator: Marijn van 't Veer <br>
-*Nominated for the Faculty of Humanities Education Award 2022*
+*Nominated for the Faculty of Humanities Education Award 2022*]{.column-body}
 
-[2021]{.aside}
-*Phonology* <br>
+[2021]{.column-sidebar}
+[*Phonology* <br>
 BA2 Linguistics <br>
 Taught seminars in a hybrid format, graded exercises and final presentations <br>
 Course coordinator: Silke Hamann <br>
-*Nominated for the Faculty of Humanities Education Award 2022*
+*Nominated for the Faculty of Humanities Education Award 2022*]{.column-body}
 
 #### Leiden University
 
-[2022]{.aside}
-*Words, sentences, and sounds in interaction* <br>
+[2022]{.column-sidebar}
+[*Words, sentences, and sounds in interaction* <br>
 BA3 English Language & Culture <br>
-Co-taught and co-coordinated with Janet Grijzenhout
+Co-taught and co-coordinated with Janet Grijzenhout]{.column-body}
 
-[2022]{.aside}
-*Analyzing English words and sounds* <br>
+[2022]{.column-sidebar}
+[*Analyzing English words and sounds* <br>
 BA1 English Language & Culture <br>
 Taught seminars (two groups) and gave one lecture <br>
-Course coordinators: Bert Botma and Marion Elenbaas
+Course coordinators: Bert Botma and Marion Elenbaas]{.column-body}
 
-[2019--2021]{.aside}
-*The phonetics of English* <br>
+[2019--2021]{.column-sidebar}
+[*The phonetics of English* <br>
 BA1 English Language & Culture <br>
 2019: Taught seminars <br>
 2020: Taught seminars (three groups in person, one group online) and gave one online lecture <br>
 2021: Taught seminars in the first block <br>
-Course coordinator: Bert Botma
+Course coordinator: Bert Botma]{.column-body}
 
 #### Aarhus University
 
-[2016]{.aside}
-*Understanding linguistics* <br>
+[2016]{.column-sidebar}
+[*Understanding linguistics* <br>
 BA1 Linguistics <br>
 Taught seminars (two groups) <br>
-Course coordinator: William McGregor
+Course coordinator: William McGregor]{.column-body}
 
-[2014]{.aside}
-*Structure, meaning, and use* <br>
+[2014]{.column-sidebar}
+[*Structure, meaning, and use* <br>
 BA2 Linguistics <br>
 Teaching assistant, gave feedback on assignments <br>
-Course coordinator: Jan Rijkhoff
+Course coordinator: Jan Rijkhoff]{.column-body}
 
-[2014]{.aside}
-*Danish and the languages of the World* <br>
+[2014]{.column-sidebar}
+[*Danish and the languages of the World* <br>
 BA1 Linguistics <br>
 Teaching assistant, gave feedback on assignments <br>
-Course coordinator: Line Krogager Andersen
+Course coordinator: Line Krogager Andersen]{.column-body}
 
-[2013]{.aside}
-*Phonetics and phonology* <br>
+[2013]{.column-sidebar}
+[*Phonetics and phonology* <br>
 BA1 Linguistics <br>
 Taught seminars (three groups), graded assignments <br>
-Course coordinator: Marjoleine Sloos
+Course coordinator: Marjoleine Sloos]{.column-body}
 
 ### Workshops
 
-[2017]{.aside}
-*Acoustics and Praat* <br>
+[2017]{.column-sidebar}
+[*Acoustics and Praat* <br>
 3-hour workshop <br>
-Department of Linguistics, Aarhus University
+Department of Linguistics, Aarhus University]{.column-body}
 
 ### Guest lectures
 
-[2021--2022]{.aside}
-*Advanced phonology 2* <br>
+[2021--2022]{.column-sidebar}
+[*Advanced phonology 2* <br>
 MA Linguistics, Leiden University <br>
-Course coordinator: Bert Botma
+Course coordinator: Bert Botma]{.column-body}
 
-[2020--2022]{.aside}
-*Data management* <br>
+[2020--2022]{.column-sidebar}
+[*Data management* <br>
 Centre for Linguistics graduate school, Leiden University <br>
-Course coordinators: Fieke Schoots and Kristina Hettne
+Course coordinators: Fieke Schoots and Kristina Hettne]{.column-body}
 
 ### Evaluation
 
-[2021]{.aside}
-Two BA theses in BA English Language & Culture, Leiden University
+[2021]{.column-sidebar}
+[Two BA theses in BA English Language & Culture, Leiden University]{.column-body}

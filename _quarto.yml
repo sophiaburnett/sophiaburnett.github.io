@@ -80,5 +80,5 @@ format:
     grid: 
       sidebar-width: 300px
       margin-width: 300px
-      body-width: 800px
+      body-width: 700px
       gutter-width: 2.5em

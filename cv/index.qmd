@@ -2,8 +2,9 @@
 format:
   html:
     grid: 
-      sidebar-width: 400px
+      sidebar-width: 350px
       margin-width: 350px
+      body-width: 900px
       gutter-width: 2.5em
     toc: true
     toc-location: right
@@ -12,7 +13,7 @@ format:
 
 ## Academic positions
 
-[2022--]{.column-sidebar}
+[<font size='3' color='grey'>2022--</font>]{.column-sidebar}
 [Postdoctoral research scientist <br> **Institute for Phonetics and Speech Processing, Ludwig Maximilian University, Munich**]{.column-body}
 
 [2021--2022]{.column-sidebar}

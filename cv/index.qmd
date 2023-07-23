@@ -2,33 +2,33 @@
 format:
   html:
     toc: true
-    toc-location: left
+    toc-location: right
     toc-depth: 4
 ---
 
 ## Academic positions
 
-[2022-- <br>]{.aside}
-Postdoctoral research scientist <br> **Institute for Phonetics and Speech Processing, Ludwig Maximilian University, Munich** 
+[2022--]{.column-sidebar}
+[Postdoctoral research scientist <br> **Institute for Phonetics and Speech Processing, Ludwig Maximilian University, Munich**]{.column-body}
 
-[2021--2022]{.aside}
+[2021--2022]{.column-sidebar}
 Two fixed-term part-time positions as lecturer <br> **Amsterdam Center for Language and Communication, University of Amsterdam**
 
-[2018--2022]{.aside}
+[2018--2022]{.column-sidebar}
 PhD fellow <br> **Leiden University Centre for Linguistics**
 
-[2013--2017]{.aside}
+[2013--2017]{.column-sidebar}
 Various teaching and research assistant positions <br> **School of Culture and Society, Aarhus University**
 
 ## Education
 
-[2023]{.aside}
+[2023]{.column-sidebar}
 **PhD** in Linguistics <br> **Leiden University**
 
-[2018]{.aside}
+[2018]{.column-sidebar}
 **MA** in Linguistics <br> **Aarhus University**
 
-[2016]{.aside}
+[2016]{.column-sidebar}
 **BA** in Linguistics and China Studies <br> **Aarhus University**
 
 ## Internationalization

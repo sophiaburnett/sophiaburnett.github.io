@@ -16,13 +16,13 @@ I've been fascinated with these sounds since I was first exposed to phonetics, a
 My colleagues [Camilla Søballe Horslund Marqvorsen](https://pure.au.dk/portal/da/persons/camilla-soeballe-horslund(ca94c354-b4ce-4038-baa4-d124d7b455f6).html){target='_blank'}, [Henrik Jørgensen](https://pure.au.dk/portal/da/persons/henrik-joergensen(abd1d781-825a-479b-96ec-a26f07bb8845).html){target='_blank'}, and I published [a paper in *Laboratory Phonology*](https://www.journal-labphon.org/article/id/6449/){target='_blank'} about intervocalic stop voicing patterns in Danish based on [a corpus of spontaneous speech](https://danpass.hum.ku.dk/){target=_'blank'}. The results show that voicing is suppressed intervocalically in both the unaspirated stops /b d g/ and the aspirated stops /p t k/ in almost all contexts, and that when voicing *does* occur, it patterns with other lenition phenomena. We compare these results to the predictions of different phonological theories of laryngeal contrast, and suggest that the results are most in line with [Articulatory Phonology](https://doi.org/10.1016/S0095-4470(19)30662-X){target=_'blank'}.
 
 ::: {.column-margin}
-![](img/voi.jpg)
+![[Puggaard-Rode et al. 2022](https://www.journal-labphon.org/article/id/6449/){target='_blank'}](img/voi.jpg)
 :::
 
 In [a paper out in *Journal of Phonetics*](https://doi.org/10.1016/j.wocn.2022.101191){target="_blank"}, I looked into the spectral characteristics of aspirated stop releases using [the same spontaneous speech corpus](https://danpass.hum.ku.dk/){target=_'blank'}. I confirmed that /t/ invariably has an affricated release (which is generally taken for granted in the literature), but also that affrication typically does not last throughout the release and that it gradually gives way to aspiration throughout the release, probably suggesting that it is *not* an affricate in the sense of e.g. [Stevens (1993)](https://doi.org/10.1016/0167-6393(93)90057-R){target='_blank'}. /k/ releases are often affricated to varying degrees and in ways that are highly affected by the coarticulary context, while /p/ releases are usually dominated by aspiration in most contexts. I argue that, in spite of their differences, the stops likely behave as a class from an articulatory perspective.
 
 ::: {.column-margin}
-![](img/affric.jpg)
+![[Puggaard-Rode 2022](https://doi.org/10.1016/j.wocn.2022.101191){target="_blank"}](img/affric.jpg)
 :::
 
 I'll cover all of this further below, but my interest in this topic has also led me to look at regional variation in how the stops are realized and how they have changed over time in traditional dialects of Jutland; colleagues and I have looked into the synchronic and diachronic phonology of so-called *stop gradation*, i.e. the somewhat notorious alternations between stops and semivowels in Danish; other colleagues and I have proposed underlying representations of the Danish stops couched in a representational framework we call Q-CV; I've looked into how the realization of coronal stops in Danish affect the Mandarin Chinese affricates produced by Danish L2 learners; and I've explored how the bandpass filters of landline telephones and other telephone connections affect speaker-specific acoustic properties of stop releases.
@@ -34,7 +34,7 @@ Many open questions remain when it comes to Danish stops, and I'm certainly not 
 For various reasons, I've grown a little disillusioned with the use of spectral moments to characterize the shape of spectra during voiceless portions of speech. So I've adopted different methods from functional data analysis to analyze patterns of variation in spectral shape. 
 
 ::: {.column-margin}
-![](img/fosr.jpg)
+![[Puggaard-Rode 2022](https://doi.org/10.1016/j.wocn.2022.101191){target="_blank"}](img/fosr.jpg)
 :::
 
 In [a paper in *Journal of Phonetics*](https://doi.org/10.1016/j.wocn.2022.101191){target="_blank"}, I use function-on-scalar regression models (an extension of generalized additive models) to analyze how spectral shape changes over time in stop releases, which allows for simply using spectral shape as a dependent variable in the statistical model. 
@@ -42,7 +42,7 @@ In [a paper in *Journal of Phonetics*](https://doi.org/10.1016/j.wocn.2022.10119
 In another paper that'll be published in the upcoming ICPhS proceedings, I use [functional principal component analysis](https://doi.org/10.1016/j.wocn.2014.10.001){target='_blank'} to determine the main sources of variance in spectral shape in stop releases. There are more details in Chapter 6 of [my dissertation](https://www.lotpublications.nl/stop-hey-whats-that-sound){target="_blank"}. This is something I really want to explore further -- I have several ideas about how to compare how spectral moments, [DCT coefficients](https://www.phonetik.uni-muenchen.de/~jmh/lehre/sem/ws2122/Emuintro/09_dct.html){target='_blank'}, and functional PCA categorizes spectral shape.
 
 ::: {.column-margin}
-![](img/fpca.jpg)
+![[Puggaard-Rode 2023](https://www.lotpublications.nl/stop-hey-whats-that-sound){target="_blank"}](img/fpca.jpg)
 :::
 
 ## Danish consonant gradation
@@ -50,7 +50,7 @@ In another paper that'll be published in the upcoming ICPhS proceedings, I use [
 Consonant gradation is a notorious phonological pattern and/or historical development in Danish whereby consonants developed radically different realizations in strong and weak prosodic positions. This e.g. results in the voiceless unaspirated velar stop [k] alternating with the semivowels [ɪ̯] and [ʊ̯]. This has traditionally been assumed to be a synchronically active phonological pattern, where in this case the semivowels are derived from underlying stops through a series of abstract rules. 
 
 ::: {.column-margin}
-![](img/phonemes.jpg)
+![[Horslund et al. 2022](https://doi.org/10.1080/03740463.2021.2022866){target='_blank'}](img/phonemes.jpg)
 :::
 
 My colleagues [Camilla Søballe Horslund Marqvorsen](https://pure.au.dk/portal/da/persons/camilla-soeballe-horslund(ca94c354-b4ce-4038-baa4-d124d7b455f6).html){target='_blank'}, [Henrik Jørgensen](https://pure.au.dk/portal/da/persons/henrik-joergensen(abd1d781-825a-479b-96ec-a26f07bb8845).html){target='_blank'}, and I published [a paper in *Acta Linguistica Hafniensia*](https://doi.org/10.1080/03740463.2021.2022866){target='_blank'} arguing that this analysis is excessively abstract and cannot be learned by children from the input available to them, and instead we propose a simpler reorganization of the Danish phonemes. In a forthcoming paper, we give a diachronic account of consonant gradation, seeking to explain how the alternations came about within the framework of [Evolutionary Phonology](https://doi.org/10.1515/TL.2006.009){target='_blank'}; this builds on Chapter 3 of [my dissertation](https://www.lotpublications.nl/stop-hey-whats-that-sound){target="_blank"}. Another ongoing project is to discuss our analysis in the light of early analyses in the structuralist glossematic framework from the early 20th century. We have [presented on this](https://rasmuspuggaard.files.wordpress.com/2022/12/2022_rebooting-glossematics-slides.pdf){target='_blank'}, but have yet to write anything up.
@@ -62,7 +62,7 @@ In another forthcoming paper, I explore the variable outcomes of consonant grada
 I have done a lot of work on regional phonetic variability in the traditional dialects of Danish spoken in Jutland, mostly based on a [large legacy corpus](https://dansklyd.statsbiblioteket.dk/samling/dialektsamlingen/){target='_blank'} of sociolinguistic interviews carried out in the early 1970s. My colleague [Yonatan Goldshtein](https://pure.au.dk/portal/en/persons/yonatan-ungermann-goldshtein(fd6503bc-eeec-4c7d-abf8-6b78802fd76f).html){target='_blank'} and I spent a lot of time trawling through the metadata of this corpus and published [a paper](https://rasmuspuggaard.files.wordpress.com/2020/07/2019_ordsag.pdf){target='_blank'} summarizing the available materials. 
 
 ::: {.column-margin}
-![](img/jutvot.jpg)
+![Puggaard-Rode forthc.](img/jutvot.jpg)
 :::
 
 Using these materials, I did large-scale corpus studies of [voice onset time](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target='_blank'}, stop closure voicing, and stop release affrication in the traditional dialects of Jutland, using generalized additive models to map the geographic variation in these phonetic parameters. Chapter 6 of [my dissertation](https://www.lotpublications.nl/stop-hey-whats-that-sound){target="_blank"} covers most of this work, although the study on closure voicing has not yet been published (for more, see [these slides](https://rasmuspuggaard.files.wordpress.com/2023/05/2023_hisphoncog_slides.pdf){target='_blank'}).
@@ -80,7 +80,7 @@ I like to build different tools in the R environment that can ease or automate a
 The most ambitious of these is an R package called [`getVOT`](https://github.com/rpuggaardrode/getVOT){target='_blank'} which seeks to partially automate the process of annotating landmarks for measuring voice onset time (both positive and negative). In [this tutorial](https://lingmethodshub.github.io/content/R/getVOT-tutorial/){target='_blank'}, I explain how to use it and how it works.
 
 ::: {.column-margin}
-![](img/getvot.jpg)
+![[Puggaard-Rode 2023](https://lingmethodshub.github.io/content/R/getVOT-tutorial/){target='_blank'}](img/getvot.jpg)
 :::
 
 I have also built the R package [`phonfeatures`](https://github.com/rpuggaardrode/phonfeatures){target='_blank'} which automatically adds columns with phonetic/phonological features to a data frame with phonetic transcriptions. I am continuously working on the package [`emuhelpeR`](https://github.com/rpuggaardrode/emuhelpeR){target='_blank'} which provides various convenience functions for working with the phonetic database system [EMU-SDMS](https://ips-lmu.github.io/The-EMU-SDMS-Manual/index.html){target='_blank'}, particularly integrating it with the voice quality processing scripts in [PraatSauce](https://github.com/kirbyj/praatsauce){target='_blank'}. I'm further working on an R package for making nice Praat-style plots combining waveforms, spectrograms, and TextGrids. 
@@ -88,7 +88,7 @@ I have also built the R package [`phonfeatures`](https://github.com/rpuggaardrod
 I've also been working on a general pipeline for quickly processing acoustic data in R (calling scripts to do forced alignment, measuring VOT, getting voice quality measures, creating an EMU database).
 
 ::: {.column-margin}
-![](img/phonplot.jpg)
+![Puggaard-Rode forthc.](img/phonplot.jpg)
 :::
 
 I have a lot of convenience functions in various scattered around various public data analysis scripts for e.g. generating multitaper spectra in bulk and visualizing functional PCA and spatial generalized additive models. 
@@ -98,7 +98,7 @@ I have a lot of convenience functions in various scattered around various public
 My PhD advisors [Janet Grijzenhout](https://www.universiteitleiden.nl/en/staffmembers/janet-grijzenhout#tab-1){target='_blank'} and [Bert Botma](https://www.universiteitleiden.nl/en/staffmembers/bert-botma#tab-1){target='_blank'} and I have been working on an extension of the representational [Q-theory](https://linguistics.berkeley.edu/qtheory/){target='_blank'} which we call Q--CV. The basic idea is that the subsegmental units from Q-theory are reinterpreted as components which are already encoded as something like basic major class features. In a [recent paper](https://doi.org/10.1093/oso/9780198791126.003.0012){target='_blank'}, we derive a great range of phonological stop contrasts using Q--CV and show how phonological processes can be shown in the framework.
 
 ::: {.column-margin}
-![](img/qcv.jpg)
+![[Puggaard-Rode et al. 2023](https://doi.org/10.1093/oso/9780198791126.003.0012){target='_blank'}](img/qcv.jpg)
 :::
 
 ## Danish interactional linguistics and online syntax
@@ -106,7 +106,7 @@ My PhD advisors [Janet Grijzenhout](https://www.universiteitleiden.nl/en/staffme
 As an undergraduate student, I spent a lot of time with the Danish Talk-in-Interaction research group at Aarhus University. We were (and they still are) building towards writing [a grammar of Danish as used in conversation](https://samtalegrammatik.dk/){target='_blank'} that relies on both usage-based linguistics, interactional linguistics, and conversation analysis. 
 
 ::: {.column-margin}
-![](img/samtalegrammatik.jpg)
+![[samtalegrammatik.dk](https://samtalegrammatik.dk){target='_blank'}](img/samtalegrammatik.jpg)
 :::
 
 My first foray into research at all was when Tina Mølgaard and I [wrote about](https://openaccess.leidenuniv.nl/bitstream/handle/1887/64261/Steensig_et_al_2013_The_DanTIN_project.pdf){target='_blank'} the prosody of the discourse particle *nå* (similar to 'oh' in English), and how the interactional function of *nå* is determined on the basis of its prosody by listeners. Later, during my MA studies, I [wrote about](https://samtalegrammatik.dk/fileadmin/samtalegrammatik/sos/7/Puggaard_2020_A_Semiotic_Grammar_account_of_copula_clauses_in_Danish.pdf){target='_blank'} copula reduction and deletion and how to interpret the phenomenon within the theoretical framework of Semiotic Grammar.
@@ -114,7 +114,7 @@ My first foray into research at all was when Tina Mølgaard and I [wrote about](
 My most extensive contribution was probably my [Master's thesis](https://rasmuspuggaard.files.wordpress.com/2019/12/2018_thesis.pdf){target='_blank'} which was later published in shortened form in [*Nordic Journal of Linguistics*](https://doi.org/10.1017/S0332586519000088){target='_blank'}, which was a corpus study of the use of the prefield (*forfelt*) in conversational speech. Danish is a verb-second language, meaning that the second phrase in sentences is the finite verb, but the first phrase (the prefield) can be any other constituent. I showed that the prefield is remarkably inflexible -- more than 50% of sentences start with *det* 'it, that', *så* 'then', or *jeg* 'I'. It appears that speakers are using this to their advantage, such that speakers will start sentences with *det* before having determined the basic structure of the sentence.
 
 ::: {.column-margin}
-![](img/det.jpg)
+![[Puggaard 2019](https://doi.org/10.1017/S0332586519000088){target='_blank'}](img/det.jpg)
 :::
 
 ## Debonding of bound morphemes
@@ -126,7 +126,7 @@ Another early research interest of mine was the rare historical process of debon
 I was a member of the short-lived Danish-accented Chinese research group headed by [Marjoleine Sloos](https://scholar.google.com/citations?user=VI3zI5EAAAAJ&hl=en){target='_blank'} at Aarhus University as an undergraduate student. We published [a paper](https://openaccess.leidenuniv.nl/bitstream/handle/1887/70171/Sloos_et_al_2015_Speech_rhythm_Danish_Chinese_interlanguage_rhyme_structure.pdf){target='_blank'} as a group outlining Danish learners' trouble with intrinsic tone duration and final lengthening in Mandarin. 
 
 ::: {.column-margin}
-![](img/mandarin.jpg)
+![[Puggaard 2020](https://hdl.handle.net/1887/3146417){target='_blank'}](img/mandarin.jpg)
 :::
 
 I later wrote my Bachelor's thesis (which was published as a [book chapter](https://hdl.handle.net/1887/3146417){target='_blank'}) about Danish learners' pronunciation of the Mandarin coronal stops and affricates. Given that Danish has a saliently affricated alveolar stop [tʰ] and Mandarin has a three-way distinction between an aspirated stop [tʰ], a plain affricate [ts] and an aspirated affricate [tsʰ], this poses a particular challenge for Danish learners. 
@@ -136,7 +136,7 @@ I later wrote my Bachelor's thesis (which was published as a [book chapter](http
 [My first ever journal article](https://www.nys.dk/article/view/100580){target='_blank'} was a Danish paper about the effects of various telephonic bandpass filters on the acoustics of stop affrication. Bandpass filters will remove the lowest and highest frequencies of the spectrum. A lot has been written about how this affects fundamental frequency and low formants, but relatively little has been written about how it affects higher frequencies in e.g. fricatives. This paper illustrates the effect and does not offer much in the way of quantification of the effect.
 
 ::: {.column-margin}
-![](img/tel.jpg)
+![[Puggaard 2018](https://www.nys.dk/article/view/100580){target='_blank'}](img/tel.jpg)
 :::
 
 ## Danish spelling

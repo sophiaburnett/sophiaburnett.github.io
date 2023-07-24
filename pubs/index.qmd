@@ -196,7 +196,7 @@ Grijzenhout, Janet, **Rasmus Puggaard** & Bert Botma. “On pees and bees”, op
 
 ### Tutorials
 
-**Rasmus Puggaard-Rode**. 2023. Predicting VOT-related landmarks in R with `getVOT`. *Linguistics Methods Hub*. doi:10.5281/zenodo.8039257. [link](https://lingmethodshub.github.io/content/R/getVOT-tutorial/){target='_blank'}
+**Puggaard-Rode, Rasmus**. 2023. Predicting VOT-related landmarks in R with `getVOT`. *Linguistics Methods Hub*. doi:10.5281/zenodo.8039257. [link](https://lingmethodshub.github.io/content/R/getVOT-tutorial/){target='_blank'}
 
 ### Theses
 

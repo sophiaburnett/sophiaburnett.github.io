@@ -50,7 +50,7 @@ website:
     left: |
       <span class="faux-block"><a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">Quarto template used to make this website</a></span>
     right: |
-      <span class="faux-block"><a href="https://github.com/marvinschmitt/quarto-website-template/">View source on GitHub</a></span>
+      <span class="faux-block"><a href="https://github.com/rpuggaardrode/rpuggaardrode.github.io">View source on GitHub</a></span>
 
 project:
   type: website

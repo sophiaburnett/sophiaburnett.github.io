@@ -39,7 +39,7 @@ Steensig, Jakob, Karen Kiil Brøcker, Caroline Grønkjær, Magnus Glenvad Tind H
 
 ### Articles in conference proceedings
 
-**Puggaard-Rode, Rasmus**. (accepted). The /t/ release in Jutland Danish. Decomposing the spectrum with functional PCA. In *Proceedings of the 20th International Congress of Phonetic Sciences*.
+**Puggaard-Rode, Rasmus**. (accepted). The /t/ release in Jutland Danish. Decomposing the spectrum with functional PCA. In *Proceedings of the 20th International Congress of Phonetic Sciences*. [pdf](https://rpuggaardrode.github.io/icphs2023/index.pdf){target='_blank'} | [html](https://rpuggaardrode.github.io/icphs2023/){target='_blank'}
 
 Horslund, Camilla Søballe, Henrik Jørgensen & **Rasmus Puggaard**. 2021. En alternativ, fonetisk baseret fonemanalyse af det danske konsonantsystem. In Yonatan Goldshtein, Inger Schoonderbeek Hansen & Tina Thode Hougaard (eds.), *18. møde om udforskningen af dansk sprog*, 251--267. Aarhus University. [pdf](https://rasmuspuggaard.files.wordpress.com/2021/09/horslund-et-al-2021_en-alternativ-fonetisk-baseret-fonemanalyse-af-det-danske-konsonantsystem.pdf){target='_blank'} | [full volume](https://projekter.au.dk/fileadmin/projekter/Muds.dk/rapporter/MUDS_18.pdf){target='_blank'}
 
@@ -63,7 +63,7 @@ Goldshtein, Yonatan & **Rasmus Puggaard**. 2019. Overblik over danske dialektopt
 
 ### Conference and workshop presentations
 
-[see [Puggaard-Rode 2023: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
+[see [Puggaard-Rode 2023a: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'} and [Puggaard-Rode 2023b](https://rpuggaardrode.github.io/icphs2023/){target='_blank'}]{.aside}
 **Puggaard-Rode, Rasmus**. "The /t/ release in Jutland Danish. Decomposing the spectrum with functional PCA". *International Congress of Phonetic Sciences* 20, August 7--11, 2023, Prague Congress Center.
 
 [see [Goldshtein & Puggaard 2019](https://rasmuspuggaard.files.wordpress.com/2020/07/2019_ordsag.pdf){target='_blank'}, [Puggaard 2021](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target='_blank'}, and [Puggaard-Rode 2023: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}

@@ -188,7 +188,7 @@ Grijzenhout, Janet, **Rasmus Puggaard** & Bert Botma. “On pees and bees”, op
 
 ### Software
 
-`getVOT`. *Predict voice onset time*. R package version 0.0.1 (June 2023). [Available on GitHub](https://github.com/rpuggaardrode/getVOT){target='_blank'}.
+`getVOT`. *Predict voice onset time*. R package version 0.1.1 (August 2023). [Available on GitHub](https://github.com/rpuggaardrode/getVOT){target='_blank'}.
 
 `emuhelpeR`. *Convenience functions for working with* `emuR`. R package version 0.0.6 (April 2023). [Available on GitHub](https://github.com/rpuggaardrode/emuhelpeR){target='_blank'}.
 

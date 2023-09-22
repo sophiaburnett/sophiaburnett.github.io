@@ -29,7 +29,7 @@ Horslund, Camilla Søballe, **Rasmus Puggaard-Rode** & Henrik Jørgensen. 2022. 
 
 ### Chapters in edited volumes
 
-**Puggaard-Rode, Rasmus**, Bert Botma & Janet Grijzenhout. 2023. Towards a quantized representation of phonological stop contrasts. In Florian Breit, Bert Botma, Marijn van ‘t Veer & Marc van Oostendorp (eds.), *Primitives of phonological structure* (Oxford Studies in Phonology & Phonetics). Oxford University Press. doi:10.1093/oso/9780198791126.003.0012. [access behind paywall](https://doi.org/10.1093/oso/9780198791126.003.0012){target='_blank'}
+**Puggaard-Rode, Rasmus**, Bert Botma & Janet Grijzenhout. 2023. Towards a quantized representation of phonological stop contrasts. In Florian Breit, Bert Botma, Marijn van ‘t Veer & Marc van Oostendorp (eds.), *Primitives of phonological structure* (Oxford Studies in Phonology & Phonetics), 305--322. Oxford University Press. doi:10.1093/oso/9780198791126.003.0012. [access behind paywall](https://doi.org/10.1093/oso/9780198791126.003.0012){target='_blank'}
 
 **Puggaard, Rasmus**. 2021. Modeling regional variation in voice onset time of Jutlandic varieties of Danish. In Hans Van de Velde, Remco Knooihuizen & Nanna Haug Hilton (eds.), *Language variation. European perspectives VIII* (Studies in Language Variation 25), 79--110. John Benjamins. doi:10.1075/silv.25.04pug. [pdf](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target="_blank"} | [full volume](https://www.jbe-platform.com/content/books/9789027259820){target="_blank"} | [data and code](https://doi.org/10.34894/JHN1Q7){target="_blank"}
 
@@ -190,11 +190,11 @@ Grijzenhout, Janet, **Rasmus Puggaard** & Bert Botma. “On pees and bees”, op
 
 ### Software
 
-`praatpicture`. *Make Praat Picture style plots of acoustic data*. R package version 0.0.1. [Available on GitHub](https://github.com/rpuggaardrode/praatpicture){target='_blank'}.
+`praatpicture`. *Make Praat Picture style plots of acoustic data*. R package version 0.1.0 (September 2023) [Available on GitHub](https://github.com/rpuggaardrode/praatpicture){target='_blank'}.
 
-`getVOT`. *Predict voice onset time*. R package version 0.1.1 (August 2023). [Available on GitHub](https://github.com/rpuggaardrode/getVOT){target='_blank'}.
+`emuhelpeR`. *Convenience functions for working with* `emuR`. R package version 0.1.1 (September 2023). [Available on GitHub](https://github.com/rpuggaardrode/emuhelpeR){target='_blank'}.
 
-`emuhelpeR`. *Convenience functions for working with* `emuR`. R package version 0.0.6 (April 2023). [Available on GitHub](https://github.com/rpuggaardrode/emuhelpeR){target='_blank'}.
+`getVOT`. *Predict voice onset time*. R package version 0.1.2 (August 2023). [Available on GitHub](https://github.com/rpuggaardrode/getVOT){target='_blank'}.
 
 `phonfeatures`. *Assign features to phonetic characters*. R package version 0.1.2 (March 2023). [Available on GitHub](https://github.com/rpuggaardrode/phonfeatures){target='_blank'}.
 

@@ -45,7 +45,7 @@ Horslund, Camilla Søballe, Henrik Jørgensen & **Rasmus Puggaard**. 2021. En al
 
 **Puggaard, Rasmus**. 2019. Fundamentfeltet i danske samtaler. In Yonatan Goldshtein, Inger Schoonderbeek Hansen & Tina Thode Hougaard (eds.), *17. møde om udforskningen af dansk sprog*, 395--413. Aarhus University. [pdf](https://rasmuspuggaard.files.wordpress.com/2020/07/puggaard-2019_fundamentfeltet-i-danske-samtaler.pdf){target='_blank'} | [full volume](https://projekter.au.dk/fileadmin/projekter/Muds.dk/rapporter/Muds_17.pdf){target='_blank'}
 
-Sloos, Marjoleine, Liang Jie, Ne Xuechao, **Rasmus Puggaard Hansen**, Yan Mengzhu & Zhang Chun. 2015. Speech rhythm of the Danish-Chinese interlanguage relies on rhyme structure. In *Proceedings of the Oriental COCOSDA/CASLRE conference*, 305--310. Shanghai Jiaotong University. [open access](https://openaccess.leidenuniv.nl/bitstream/handle/1887/70171/Sloos_et_al_2015_Speech_rhythm_Danish_Chinese_interlanguage_rhyme_structure.pdf){target='_blank'}
+Sloos, Marjoleine, Liang Jie, Ne Xuechao, **Rasmus Puggaard Hansen**, Yan Mengzhu & Zhang Chun. 2015. Speech rhythm of the Danish--Chinese interlanguage relies on rhyme structure. In *Proceedings of the Oriental COCOSDA/CASLRE conference*, 305--310. Shanghai Jiaotong University. [open access](https://openaccess.leidenuniv.nl/bitstream/handle/1887/70171/Sloos_et_al_2015_Speech_rhythm_Danish_Chinese_interlanguage_rhyme_structure.pdf){target='_blank'}
 
 ### Edited volumes
 
@@ -63,8 +63,10 @@ Goldshtein, Yonatan & **Rasmus Puggaard**. 2019. Overblik over danske dialektopt
 
 ### Conference and workshop presentations
 
+**Puggaard-Rode, Rasmus** & Francesco Burroni. "Articulation of the Danish soft d. A pilot study using electromagnetic articulography". *Fonologi i Norden* 9, February 23--24, 2024, Stockholm University.
+
 [see [Puggaard-Rode 2023a: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'} and [Puggaard-Rode 2023b](https://rpuggaardrode.github.io/icphs2023/){target='_blank'}]{.aside}
-**Puggaard-Rode, Rasmus**. "The /t/ release in Jutland Danish. Decomposing the spectrum with functional PCA". *International Congress of Phonetic Sciences* 20, August 7--11, 2023, Prague Congress Center.
+**Puggaard-Rode, Rasmus**. "The /t/ release in Jutland Danish. Decomposing the spectrum with functional PCA". *International Congress of Phonetic Sciences* 20, August 7--11, 2023, Prague Congress Center. [slides](https://rasmuspuggaard.files.wordpress.com/2023/08/2023_icphs_slides.pdf){target='_blank'} | [paper](https://rpuggaardrode.github.io/icphs23){target='_blank'}
 
 [see [Goldshtein & Puggaard 2019](https://rasmuspuggaard.files.wordpress.com/2020/07/2019_ordsag.pdf){target='_blank'}, [Puggaard 2021](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target='_blank'}, and [Puggaard-Rode 2023: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
 **Puggaard-Rode, Rasmus**. "Covariation between fine phonetic detail and outcomes of sound change in the microtypology of Jutland Danish dialects". *Hanyang International Symposium on Phonetics and Cognitive Sciences of Language* 3, May 26--27, 2023, Hanyang University, Seoul. [abstract](https://rasmuspuggaard.files.wordpress.com/2023/03/2023_hisphoncog.pdf){target='_blank'} | [slides](https://rasmuspuggaard.files.wordpress.com/2023/05/2023_hisphoncog_slides.pdf){target='_blank'}
@@ -114,6 +116,8 @@ Steensig, Jakob, Søren Sandager Sørensen, Andrea Bruun, Sidsel Holm, Amalie Vo
 Steensig, Jakob, Tina Mølgaard, **Rasmus Puggaard Hansen**, Emilie Tholstrup, Nicholas Hedegaard Mikkelsen, Caroline Grønkjær, Magnus Glenvad Tind Hamann, Mathias Høyer Kragelund, Henriette Folkmann Pedersen, Karen Kiil Brøcker, Søren Sandager Sørensen & Maria Jørgensen. “A multiple approach matrix for describing grammar in interaction”, One-hour workshop hosted at *SJUSK -- Symposium on Contemporary Speech Habits and Pronunciation Patterns* 2, March 18--20, 2013, Copenhagen Business School.
 
 ### Posters
+
+Tan, Maryann, James Kirby & **Rasmus Puggaard-Rode**. "Investigating the effects of laryngeal contrasts on vowel fundamental frequency in Central Swedish stop consonants", *Fonologi i NOrden* 9, February 23--24, Stockholm University.
 
 Jørgensen, Henrik, **Rasmus Puggaard-Rode** & Camilla Søballe Horslund. "The phonemic aspects of Glossematics in a present-day light", *Edinburgh Symposium on Historical Phonology*, December 4--5, 2023, University of Edinburgh. [abstract](https://rasmuspuggaard.files.wordpress.com/2023/09/2023_eshp.pdf){target='_blank'}
 

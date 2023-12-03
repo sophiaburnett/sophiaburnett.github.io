@@ -47,7 +47,7 @@ I'm a passionate teacher, and have experience in teaching phonetics, phonology, 
 
 <h2 style='text-align: center;'>News</h2>
 
-* I'm heading to [*Phonology in the Nordic Countries*](https://fonologiinorden.wordpress.com/2023/08/09/fino-2024-call-for-abstracts/){target='_blank'} in Stockholm in February. I'll be presenting a talk about the articulation of the unusual Danish semivowel known as 'the soft *d*' with my colleague Francesco Burroni, and a poster on obstruent-intrinsic *F*_0_ in Central Swedish with Maryann Tan and James Kirby.
+* I'm heading to [*Phonology in the Nordic Countries*](https://fonologiinorden.wordpress.com/2023/08/09/fino-2024-call-for-abstracts/){target='_blank'} in Stockholm in February. I'll be presenting a talk about the articulation of the unusual Danish semivowel known as 'the soft *d*' with my colleague Francesco Burroni, and a poster on obstruent-intrinsic *F*0 in Central Swedish with Maryann Tan and James Kirby.
 
 * I'll be headed to the sixth [*Edinburgh Symposium on Historical Phonology*](http://www.lel.ed.ac.uk/symposium-on-historical-phonology/eshp6/){target='_blank'} in December to present a poster with colleagues Henrik Jørgensen and Camilla Søballe Horslund Marqvorsen about how well glossematic analyses of Danish phonology hold up in the 21st century. Abstract can be found [here](https://rasmuspuggaard.files.wordpress.com/2023/09/2023_eshp.pdf){target='_blank'}. While I'm in the UK, I'll also be visiting the [Lancaster University Phonetics Lab](https://wp.lancs.ac.uk/phonetics/){target='_blank'} for a few days, and presenting some of my recent work on the phonetics and phonology of stop gradation in Jutland Danish.
 

@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:sophiaburnett@cyu.fr"}
+  - {title: Mail, icon: envelope, url: "mailto:sophia.burnett@cyu.fr"}
   - {title: Github, icon: github, url: "https://github.com/sophiaburnett"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/jaiunstylo"}
 

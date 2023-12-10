@@ -151,8 +151,10 @@ Steensig, Jakob & **Rasmus Puggaard**. “A syntax for conversation. Social acti
 
 ### Departmental talks and guest lectures
 
+**Puggaard-Rode, Rasmus**. `praatpicture` demonstration. December 7, 2023, Lancaster University Phonetics Lab.
+
 [see [Goldshtein & Puggaard 2019](https://rasmuspuggaard.files.wordpress.com/2020/07/2019_ordsag.pdf){target='_blank'}, [Puggaard 2021](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target='_blank'}, and [Puggaard-Rode 2023: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
-**Puggaard-Rode, Rasmus**. "Variation in fine phonetic detail modulates the outcome of sound change. The case of stop lenition in Jutland Danish", December 7, 2023, Lancaster University Phonetics Lab.
+**Puggaard-Rode, Rasmus**. "Variation in fine phonetic detail modulates the outcome of sound change. The case of stop lenition in Jutland Danish", December 7, 2023, Lancaster University Phonetics Lab. [slides](https://rpuggaardrode.github.io/lancaster23/#/title-slide){target='_blank'}
 
 [see [Puggaard-Rode 2023](https://lingmethodshub.github.io/content/R/getVOT-tutorial/){target='_blank'}]{.aside}
 **Puggaard-Rode, Rasmus**. “`getVOT`, or: How I learned to stop hand-annotating and love the computer”, *Sounds of Language and Speech*, June 6, 2023, Aarhus University. [slides](https://rpuggaardrode.github.io/getVOT-pres/#1){target='_blank'}

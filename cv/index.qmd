@@ -68,6 +68,10 @@ Aarhus University Linguistics Department travel grant, €200]{.column-body}
 
 ## Conference and workshop organization
 
+[<font size='3' color='grey'>2024</font>]{.column-sidebar}
+[*How segments influence prosody in the languages of the world* <br>
+Special session of *Speech Prosody* hosted at Leiden University, 2--5 July <br> Co-organized with Menghui Shi]{.column-body}
+
 [<font size='3' color='grey'>2021</font>]{.column-sidebar}
 [*Conference of the Student Organization of Linguistics in Europe* 29 <br>
 Digital meeting hosted at Leiden University, 26--28 January]{.column-body}

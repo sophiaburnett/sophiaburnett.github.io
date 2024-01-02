@@ -1,5 +1,5 @@
 ---
-title: "PresentationsW"
+title: "Presentations"
 permalink: "/presentations/"
 layout: page
 ---

@@ -23,6 +23,8 @@ website:
     right:
       - icon: twitter
         href: https://twitter.com/RPuggaardRode
+      - text: "{{< iconify simple-icons bluesky >}}"
+        href: https://bsky.app/profile/rpuggaardrode.bsky.social
       - icon: github
         href: https://github.com/rpuggaardrode
       - text: '{{< iconify academicons google-scholar >}}'
@@ -37,6 +39,8 @@ website:
         href: https://www.linkedin.com/in/rasmus-puggaard-rode-1972957b/
       - text: "{{< iconify simple-icons letterboxd >}}"
         href: https://letterboxd.com/rpuggaardrode/
+      - text: "{{< iconify ic outline-live-tv >}}"
+        href: https://www.serializd.com/user/rpuggaardrode
       - text: "{{< iconify ri music-fill >}}"
         href: https://rateyourmusic.com/~rasmuspuggaard
       - text: "{{< iconify simple-icons untappd >}}"

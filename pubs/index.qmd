@@ -63,7 +63,7 @@ Goldshtein, Yonatan & **Rasmus Puggaard**. 2019. Overblik over danske dialektopt
 
 ### Conference and workshop presentations
 
-**Puggaard-Rode, Rasmus** & Francesco Burroni. "Articulation of the Danish soft d. A pilot study using electromagnetic articulography". *Fonologi i Norden* 9, February 23--24, 2024, Stockholm University.
+**Puggaard-Rode, Rasmus** & Francesco Burroni. "Articulation of the Danish soft d. A pilot study using electromagnetic articulography". *Fonologi i Norden* 9, February 23--24, 2024, Stockholm University. [abstract](https://rasmuspuggaard.files.wordpress.com/2024/02/2024_fino_ema.pdf){target='_blank'}
 
 [see [Puggaard-Rode 2023a: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'} and [Puggaard-Rode 2023b](https://rpuggaardrode.github.io/icphs2023/){target='_blank'}]{.aside}
 **Puggaard-Rode, Rasmus**. "The /t/ release in Jutland Danish. Decomposing the spectrum with functional PCA". *International Congress of Phonetic Sciences* 20, August 7--11, 2023, Prague Congress Center. [slides](https://rasmuspuggaard.files.wordpress.com/2023/08/2023_icphs_slides.pdf){target='_blank'} | [paper](https://rpuggaardrode.github.io/icphs23){target='_blank'}
@@ -117,7 +117,7 @@ Steensig, Jakob, Tina Mølgaard, **Rasmus Puggaard Hansen**, Emilie Tholstrup, N
 
 ### Posters
 
-Tan, Maryann, James Kirby & **Rasmus Puggaard-Rode**. "Investigating the effects of laryngeal contrasts on vowel fundamental frequency in Central Swedish stop consonants", *Fonologi i Norden* 9, February 23--24, Stockholm University.
+Tan, Maryann, James Kirby & **Rasmus Puggaard-Rode**. "Investigating the effects of laryngeal contrasts on vowel fundamental frequency in Central Swedish stop consonants", *Fonologi i Norden* 9, February 23--24, Stockholm University. [abstract](https://rasmuspuggaard.files.wordpress.com/2024/02/2024_fino_swe.pdf){target='_blank'}
 
 Jørgensen, Henrik, **Rasmus Puggaard-Rode** & Camilla Søballe Horslund. "The phonemic aspects of Glossematics in a present-day light", *Edinburgh Symposium on Historical Phonology*, December 4--5, 2023, University of Edinburgh. [abstract](https://rasmuspuggaard.files.wordpress.com/2023/09/2023_eshp.pdf){target='_blank'} | [poster](https://rasmuspuggaard.files.wordpress.com/2023/12/2023_eshp_poster.pdf){target='_blank'}
 
@@ -150,6 +150,8 @@ Sloos, Marjoleine, Liang Jie, Ne Xuechao, **Rasmus Puggaard Hansen**, Yan Mengzh
 Steensig, Jakob & **Rasmus Puggaard**. “A syntax for conversation. Social action formats and/or abstract clause models?”, *DanTIN Day. The 10th anniversary celebration of the DanTIN group*, November 13, 2019, Aarhus University.
 
 ### Departmental talks and guest lectures
+
+**Puggaard-Rode, Rasmus**. "Introducing `praatpicture`, an R package for people who like the way Praat's figures look but would prefer not to make them in Praat", Institute for Phonetics and Speech Processing PhD and Postdoc Kolloquium, February 1, 2024, Ludwig Maximilian University of Munich.
 
 **Puggaard-Rode, Rasmus**. `praatpicture` demonstration. December 7, 2023, Lancaster University Phonetics Lab.
 
@@ -199,17 +201,19 @@ Grijzenhout, Janet, **Rasmus Puggaard** & Bert Botma. “On pees and bees”, op
 
 ### Software
 
-`praatpicture`. *Make Praat Picture style plots of acoustic data*. R package version 0.1.0 (September 2023) [Available on GitHub](https://github.com/rpuggaardrode/praatpicture){target='_blank'}.
+`praatpicture`. *Make Praat Picture style plots of acoustic data*. R package version 0.1.0 (August 2023--January 2024) [Available on GitHub](https://github.com/rpuggaardrode/praatpicture){target='_blank'}.
 
-`emuhelpeR`. *Convenience functions for working with* `emuR`. R package version 0.1.1 (September 2023). [Available on GitHub](https://github.com/rpuggaardrode/emuhelpeR){target='_blank'}.
+`emuhelpeR`. *Convenience functions for working with* `emuR`. R package version 0.1.5 (January 2023--January 2024). [Available on GitHub](https://github.com/rpuggaardrode/emuhelpeR){target='_blank'}.
 
-`getVOT`. *Predict voice onset time*. R package version 0.1.3 (September 2023). [Available on GitHub](https://github.com/rpuggaardrode/getVOT){target='_blank'}.
+`getVOT`. *Predict voice onset time*. R package version 0.1.4 (February--October 2023). [Available on GitHub](https://github.com/rpuggaardrode/getVOT){target='_blank'}.
 
-`phonfeatures`. *Assign features to phonetic characters*. R package version 0.1.2 (March 2023). [Available on GitHub](https://github.com/rpuggaardrode/phonfeatures){target='_blank'}.
+`phonfeatures`. *Assign features to phonetic characters*. R package version 0.1.2 (January--February 2023). [Available on GitHub](https://github.com/rpuggaardrode/phonfeatures){target='_blank'}.
 
 ### Tutorials
 
 **Puggaard-Rode, Rasmus**. 2023. Predicting VOT-related landmarks in R with `getVOT`. *Linguistics Methods Hub*. doi:10.5281/zenodo.8039257. [link](https://lingmethodshub.github.io/content/R/getVOT-tutorial/){target='_blank'}
+
+**Puggaard-Rode, Rasmus**. 2023. Generating and analyzing multitaper spectra in R. (Unpublished). [link](https://rpuggaardrode.github.io/multitaper-tutorial/){target='_blank'}
 
 ### Theses
 

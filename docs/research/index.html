@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.433">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -99,6 +99,10 @@ ul.task-list li input[type="checkbox"] {
 </i> 
  <span class="menu-text"></span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://bsky.app/profile/rpuggaardrode.bsky.social" rel="" target="">
+ <span class="menu-text"><iconify-icon inline="" icon="simple-icons:bluesky"></iconify-icon></span></a>
+  </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/rpuggaardrode" rel="" target=""><i class="bi bi-github" role="img">
 </i> 
@@ -128,6 +132,10 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="https://letterboxd.com/rpuggaardrode/" rel="" target="">
  <span class="menu-text"><iconify-icon inline="" icon="simple-icons:letterboxd"></iconify-icon></span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.serializd.com/user/rpuggaardrode" rel="" target="">
+ <span class="menu-text"><iconify-icon inline="" icon="ic:outline-live-tv"></iconify-icon></span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="https://rateyourmusic.com/~rasmuspuggaard" rel="" target="">
@@ -162,7 +170,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#danish-consonant-gradation" id="toc-danish-consonant-gradation" class="nav-link" data-scroll-target="#danish-consonant-gradation">Danish consonant gradation</a></li>
   <li><a href="#traditional-dialects-of-jutland" id="toc-traditional-dialects-of-jutland" class="nav-link" data-scroll-target="#traditional-dialects-of-jutland">Traditional dialects of Jutland</a></li>
   <li><a href="#consonant-intrinsic-f0" id="toc-consonant-intrinsic-f0" class="nav-link" data-scroll-target="#consonant-intrinsic-f0">Consonant-intrinsic <em>F</em><sub>0</sub></a></li>
-  <li><a href="#tools-for-acoustic-analysis" id="toc-tools-for-acoustic-analysis" class="nav-link" data-scroll-target="#tools-for-acoustic-analysis">Tools for acoustic analysis</a></li>
+  <li><a href="#tools-for-processing-and-visualizing-acoustic-data" id="toc-tools-for-processing-and-visualizing-acoustic-data" class="nav-link" data-scroll-target="#tools-for-processing-and-visualizing-acoustic-data">Tools for processing and visualizing acoustic data</a></li>
   <li><a href="#qcv" id="toc-qcv" class="nav-link" data-scroll-target="#qcv">Q–CV</a></li>
   <li><a href="#danish-interactional-linguistics-and-online-syntax" id="toc-danish-interactional-linguistics-and-online-syntax" class="nav-link" data-scroll-target="#danish-interactional-linguistics-and-online-syntax">Danish interactional linguistics and online syntax</a></li>
   <li><a href="#debonding-of-bound-morphemes" id="toc-debonding-of-bound-morphemes" class="nav-link" data-scroll-target="#debonding-of-bound-morphemes">Debonding of bound morphemes</a></li>
@@ -205,11 +213,11 @@ ul.task-list li input[type="checkbox"] {
 </figure>
 </div>
 </div></div><p>I’ll cover all of this further below, but my interest in this topic has also led me to look at regional variation in how the stops are realized and how they have changed over time in traditional dialects of Jutland; colleagues and I have looked into the synchronic and diachronic phonology of so-called <em>stop gradation</em>, i.e.&nbsp;the somewhat notorious alternations between stops and semivowels in Danish; other colleagues and I have proposed underlying representations of the Danish stops couched in a representational framework we call Q-CV; I’ve looked into how the realization of coronal stops in Danish affect the Mandarin Chinese affricates produced by Danish L2 learners; and I’ve explored how the bandpass filters of landline telephones and other telephone connections affect speaker-specific acoustic properties of stop releases.</p>
-<p>Many open questions remain when it comes to Danish stops, and I’m certainly not done with them. One question that I’m actively pursuing is the extent to which their <a href="https://doi.org/10.1159/000261734" target="_blank">particular laryngeal constellation</a> affect the <em>F</em><sub>0</sub> of surrounding vowels, and whether this is affected by higher-level prosodic structure.</p>
+<p>Many open questions remain when it comes to Danish stops, and I’m certainly not done with them. One question that I’m actively pursuing in collaboration with <a href="https://www.phonetik.uni-muenchen.de/~jkirby/" target="_blank">James Kirby</a> and <a href="https://nors.ku.dk/english/research/linguistics/?pure=en%2Fpersons%2Fnicolai-pharao(a4232e91-2d31-4034-8dba-324199e765ea).html" target="_blank">Nicolai Pharao</a> is the extent to which their <a href="https://doi.org/10.1159/000261734" target="_blank">particular laryngeal constellation</a> affect the <em>F</em><sub>0</sub> of surrounding vowels, and whether this is affected by higher-level prosodic structure. I am also currently collaborating with <a href="https://sites.google.com/cornell.edu/francescoburroni/home" target="_blank">Francesco Burroni</a> on the the relative timing of articulatory gestures in stop–vowel sequences in Danish.</p>
 </section>
 <section id="functional-data-analysis-and-aperiodic-spectra" class="level2 page-columns page-full">
 <h2 class="anchored" data-anchor-id="functional-data-analysis-and-aperiodic-spectra">Functional data analysis and aperiodic spectra</h2>
-<p>For various reasons, I’ve grown a little disillusioned with the use of spectral moments to characterize the shape of spectra during voiceless portions of speech. So I’ve adopted different methods from functional data analysis to analyze patterns of variation in spectral shape.</p>
+<p>For various reasons, I’ve grown a little disillusioned with the use of spectral moments to characterize the shape of spectra during (especially) voiceless portions of speech. So I’ve adopted different methods from functional data analysis to analyze patterns of variation in spectral shape.</p>
 
 <div class="no-row-height column-margin column-container"><div class="">
 <div class="quarto-figure quarto-figure-center">
@@ -218,8 +226,8 @@ ul.task-list li input[type="checkbox"] {
 <figcaption class="figure-caption"><a href="https://doi.org/10.1016/j.wocn.2022.101191" target="_blank">Puggaard-Rode 2022</a></figcaption>
 </figure>
 </div>
-</div></div><p>In <a href="https://doi.org/10.1016/j.wocn.2022.101191" target="_blank">a paper in <em>Journal of Phonetics</em></a>, I use function-on-scalar regression models (an extension of generalized additive models) to analyze how spectral shape changes over time in stop releases, which allows for simply using spectral shape as a dependent variable in the statistical model.</p>
-<p>In another paper published in the <a href="https://rpuggaardrode.github.io/icphs2023/" target="_blank"><em>ICPhS</em> proceedings</a>, I use <a href="https://doi.org/10.1016/j.wocn.2014.10.001" target="_blank">functional principal component analysis</a> to determine the main sources of variance in spectral shape in stop releases. There are more details in Chapter 6 of <a href="https://www.lotpublications.nl/stop-hey-whats-that-sound" target="_blank">my dissertation</a>. This is something I really want to explore further – I have several ideas about how to compare how spectral moments, <a href="https://www.phonetik.uni-muenchen.de/~jmh/lehre/sem/ws2122/Emuintro/09_dct.html" target="_blank">DCT coefficients</a>, and functional PCA categorizes spectral shape.</p>
+</div></div><p>In <a href="https://doi.org/10.1016/j.wocn.2022.101191" target="_blank">a paper in <em>Journal of Phonetics</em></a>, I use function-on-scalar regression models (an extension of generalized additive models) to analyze how spectral shape changes over time in stop releases, which allows for simply using spectral shape as a dependent variable in a statistical model.</p>
+<p>In another paper published in the <a href="https://rpuggaardrode.github.io/icphs2023/" target="_blank"><em>ICPhS</em> proceedings</a>, I use <a href="https://doi.org/10.1016/j.wocn.2014.10.001" target="_blank">functional principal component analysis</a> to determine the main sources of variance in spectral shape in stop releases. There are more details in Chapter 6 of <a href="https://www.lotpublications.nl/stop-hey-whats-that-sound" target="_blank">my dissertation</a>. This is something I really want to explore further but haven’t yet – I have several ideas about how to compare how spectral moments, <a href="https://www.phonetik.uni-muenchen.de/~jmh/lehre/sem/ws2122/Emuintro/09_dct.html" target="_blank">DCT coefficients</a>, and functional PCA categorizes spectral shape.</p>
 
 <div class="no-row-height column-margin column-container"><div class="">
 <div class="quarto-figure quarto-figure-center">
@@ -240,8 +248,8 @@ ul.task-list li input[type="checkbox"] {
 <figcaption class="figure-caption"><a href="https://doi.org/10.1080/03740463.2021.2022866" target="_blank">Horslund et al.&nbsp;2022</a></figcaption>
 </figure>
 </div>
-</div></div><p>My colleagues <a href="https://pure.au.dk/portal/da/persons/camilla-soeballe-horslund(ca94c354-b4ce-4038-baa4-d124d7b455f6).html" target="_blank">Camilla Søballe Horslund Marqvorsen</a>, <a href="https://pure.au.dk/portal/da/persons/henrik-joergensen(abd1d781-825a-479b-96ec-a26f07bb8845).html" target="_blank">Henrik Jørgensen</a>, and I published <a href="https://doi.org/10.1080/03740463.2021.2022866" target="_blank">a paper in <em>Acta Linguistica Hafniensia</em></a> arguing that this analysis is excessively abstract and cannot be learned by children from the input available to them, and instead we propose a simpler reorganization of the Danish phonemes. In a forthcoming paper, we give a diachronic account of consonant gradation, seeking to explain how the alternations came about within the framework of <a href="https://doi.org/10.1515/TL.2006.009" target="_blank">Evolutionary Phonology</a>; this builds on Chapter 3 of <a href="https://www.lotpublications.nl/stop-hey-whats-that-sound" target="_blank">my dissertation</a>. Another ongoing project is to discuss our analysis in the light of early analyses in the structuralist glossematic framework from the early 20th century. We have <a href="https://rasmuspuggaard.files.wordpress.com/2022/12/2022_rebooting-glossematics-slides.pdf" target="_blank">presented on this</a>, but have yet to write anything up.</p>
-<p>In another forthcoming paper, I explore the variable outcomes of consonant gradation in the traditional dialects spoken in Jutland, and how these outcomes relate to variability in the fine phonetic detail of stop realization. I <a href="https://rasmuspuggaard.files.wordpress.com/2023/05/2023_hisphoncog_slides.pdf" target="_blank">presented</a> on this earlier this year.</p>
+</div></div><p>My colleagues <a href="https://pure.au.dk/portal/da/persons/camilla-soeballe-horslund(ca94c354-b4ce-4038-baa4-d124d7b455f6).html" target="_blank">Camilla Søballe Horslund Marqvorsen</a>, <a href="https://pure.au.dk/portal/da/persons/henrik-joergensen(abd1d781-825a-479b-96ec-a26f07bb8845).html" target="_blank">Henrik Jørgensen</a>, and I published <a href="https://doi.org/10.1080/03740463.2021.2022866" target="_blank">a paper in <em>Acta Linguistica Hafniensia</em></a> arguing that this analysis is excessively abstract and cannot be learned by children from the input available to them, and instead we propose a simpler reorganization of the Danish phonemes. In a forthcoming paper, we give a diachronic account of consonant gradation, seeking to explain how the alternations came about within the framework of <a href="https://doi.org/10.1515/TL.2006.009" target="_blank">Evolutionary Phonology</a>; this builds on Chapter 3 of <a href="https://www.lotpublications.nl/stop-hey-whats-that-sound" target="_blank">my dissertation</a>. Another ongoing project is to discuss our analysis in the light of early analyses in the structuralist glossematic framework from the early 20th century. We have <a href="https://rasmuspuggaard.files.wordpress.com/2022/12/2022_rebooting-glossematics-slides.pdf" target="_blank">presented</a> <a href="https://rasmuspuggaard.files.wordpress.com/2023/12/2023_eshp_poster.pdf" target="_blank">this</a>, but have yet to write anything up.</p>
+<p>In another forthcoming paper, I explore the variable outcomes of consonant gradation in the traditional dialects spoken in Jutland, and how these outcomes relate to variability in the fine phonetic detail of stop realization. I have <a href="https://rasmuspuggaard.files.wordpress.com/2023/05/2023_hisphoncog_slides.pdf" target="_blank">presented</a> <a href="https://rpuggaardrode.github.io/lancaster23/#/title-slide">this</a> research on different occasions.</p>
 </section>
 <section id="traditional-dialects-of-jutland" class="level2 page-columns page-full">
 <h2 class="anchored" data-anchor-id="traditional-dialects-of-jutland">Traditional dialects of Jutland</h2>
@@ -254,16 +262,17 @@ ul.task-list li input[type="checkbox"] {
 <figcaption class="figure-caption">Puggaard-Rode forthc.</figcaption>
 </figure>
 </div>
-</div></div><p>Using these materials, I did large-scale corpus studies of <a href="https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf" target="_blank">voice onset time</a>, stop closure voicing, and <a href="https://rpuggaardrode.github.io/icphs2023/" target="_blank">stop release affrication</a> in the traditional dialects of Jutland, using generalized additive models to map the geographic variation in these phonetic parameters. Chapter 6 of <a href="https://www.lotpublications.nl/stop-hey-whats-that-sound" target="_blank">my dissertation</a> covers most of this work, although the study on closure voicing has not yet been published (for more, see <a href="https://rasmuspuggaard.files.wordpress.com/2023/05/2023_hisphoncog_slides.pdf" target="_blank">these slides</a>).</p>
+</div></div><p>Using these materials, I did large-scale corpus studies of <a href="https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf" target="_blank">voice onset time</a>, stop closure voicing, and <a href="https://rpuggaardrode.github.io/icphs2023/" target="_blank">stop release affrication</a> in the traditional dialects of Jutland, using generalized additive models to map the geographic variation in these phonetic parameters. Chapter 6 of <a href="https://www.lotpublications.nl/stop-hey-whats-that-sound" target="_blank">my dissertation</a> covers most of this work, although the study on closure voicing has not yet been published (for more, see <a href="https://rpuggaardrode.github.io/lancaster23/#/title-slide" target="_blank">these slides</a>).</p>
 </section>
 <section id="consonant-intrinsic-f0" class="level2">
 <h2 class="anchored" data-anchor-id="consonant-intrinsic-f0">Consonant-intrinsic <em>F</em><sub>0</sub></h2>
-<p>At the moment, one of my main research interests is the effect of consonant-voicing or other laryngeal features of consonants on fundamental frequency of their immediate environment. In our research group, a bunch of us are looking at how different kinds of glottal and voiceless codas affect the <em>F</em><sub>0</sub> of preceding syllables in several different languages, focusing first on the South-East Asian language Kmhmu’.</p>
-<p>I am also putting together an experiment to test how the aspiration-based laryngeal contrast in Danish stops affects <em>F</em><sub>0</sub> of following vowels. This was also done in a few studies in the <a href="https://tidsskrift.dk/ARIPUC/article/view/130975" target="_blank">1970s</a> and <a href="https://tidsskrift.dk/ARIPUC/article/view/131784" target="_blank">1980s</a>, but a lot of open questions remain.</p>
+<p>At the moment, one of my main research interests is the effect of consonant-voicing or other laryngeal features of consonants on fundamental frequency of their immediate environment. In collaboration with <a href="https://www.phonetik.uni-muenchen.de/~jkirby/" target="_blank">James Kirby</a>, <a href="https://sireemasm.github.io/" target="_blank">Sireemas Mapsong</a>, and <a href="https://sites.google.com/cornell.edu/francescoburroni/home" target="_blank">Francesco Burroni</a>, I am looking at how different kinds of glottal and voiceless codas affect the <em>F</em><sub>0</sub> of preceding syllables in several different languages, focusing first on the South-East Asian language Eastern Kmhmu’ in a paper that is currently in review, and in ongoing work also on Thai, Mon, and German.</p>
+<p>I am also working on how the aspiration-based laryngeal contrast in Danish stops affects <em>F</em><sub>0</sub> of following vowels. This was investigated in a few studies in the <a href="https://tidsskrift.dk/ARIPUC/article/view/130975" target="_blank">1970s</a> and <a href="https://tidsskrift.dk/ARIPUC/article/view/131784" target="_blank">1980s</a>, but a lot of open questions remain.</p>
+<p>At <a href="https://www.universiteitleiden.nl/sp2024" target="_blank">Speech Prosody</a> in Leiden, 2024, I am co-hosting a <a href="https://www.universiteitleiden.nl/sp2024/program/special-sessions#organizers-menghui-shi-and-rasmus-puggaard-rode" target="_blank">special session on segment–intrinsic <em>F</em><sub>0</sub></a> together with my colleague <a href="https://imoll.fudan.edu.cn/info/1088/1092.htm" target="_blank">Menghui Shi</a>.</p>
 </section>
-<section id="tools-for-acoustic-analysis" class="level2 page-columns page-full">
-<h2 class="anchored" data-anchor-id="tools-for-acoustic-analysis">Tools for acoustic analysis</h2>
-<p>I like to build different tools in the R environment that can ease or automate aspects of acoustic analysis.</p>
+<section id="tools-for-processing-and-visualizing-acoustic-data" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="tools-for-processing-and-visualizing-acoustic-data">Tools for processing and visualizing acoustic data</h2>
+<p>I like to build different tools in the R environment that can ease or automate aspects of acoustic analysis and visualization.</p>
 <p>The most ambitious of these is an R package called <a href="https://github.com/rpuggaardrode/getVOT" target="_blank"><code>getVOT</code></a> which seeks to partially automate the process of annotating landmarks for measuring voice onset time (both positive and negative). In <a href="https://lingmethodshub.github.io/content/R/getVOT-tutorial/" target="_blank">this tutorial</a>, I explain how to use it and how it works.</p>
 
 <div class="no-row-height column-margin column-container"><div class="">
@@ -273,18 +282,28 @@ ul.task-list li input[type="checkbox"] {
 <figcaption class="figure-caption"><a href="https://lingmethodshub.github.io/content/R/getVOT-tutorial/" target="_blank">Puggaard-Rode 2023</a></figcaption>
 </figure>
 </div>
-</div></div><p>I have also built the R package <a href="https://github.com/rpuggaardrode/phonfeatures" target="_blank"><code>phonfeatures</code></a> which automatically adds columns with phonetic/phonological features to a data frame with phonetic transcriptions. I am continuously working on the package <a href="https://github.com/rpuggaardrode/emuhelpeR" target="_blank"><code>emuhelpeR</code></a> which provides various convenience functions for working with the phonetic database system <a href="https://ips-lmu.github.io/The-EMU-SDMS-Manual/index.html" target="_blank">EMU-SDMS</a>, particularly integrating it with the voice quality processing scripts in <a href="https://github.com/kirbyj/praatsauce" target="_blank">PraatSauce</a>. I’m further working on an R package for making nice Praat-style plots combining waveforms, spectrograms, and TextGrids.</p>
-<p>I’ve also been working on a general pipeline for quickly processing acoustic data in R (calling scripts to do forced alignment, measuring VOT, getting voice quality measures, creating an EMU database).</p>
+</div></div><p>I developed another R package for making nice Praat-style plots combining waveforms, spectrograms, annotations, and other derived acoustic measures. This tool has gradually grown in scope, and now also has functionality for annotating small snippets of sound within R, embedding sound in Praat-style plots, and making animations. A forthcoming paper presents the package in more detail.</p>
+<p>I have also built the R package <a href="https://github.com/rpuggaardrode/phonfeatures" target="_blank"><code>phonfeatures</code></a> which automatically adds columns with phonetic/phonological features to a data frame with phonetic transcriptions. I am continuously working on the package <a href="https://github.com/rpuggaardrode/emuhelpeR" target="_blank"><code>emuhelpeR</code></a> which provides various convenience functions for working with the phonetic database system <a href="https://ips-lmu.github.io/The-EMU-SDMS-Manual/index.html" target="_blank">EMU-SDMS</a>, particularly integrating it with the voice quality processing scripts in <a href="https://github.com/kirbyj/praatsauce" target="_blank">PraatSauce</a>.</p>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/praatpicture.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption"><a href="https://github.com/rpuggaardrode/praatpicture" target="_blank">Puggaard-Rode 2024</a></figcaption>
+</figure>
+</div>
+</div></div><p>I’m working with <a href="https://www.en.phonetik.uni-muenchen.de/people/professors/jonathan_harrington/index.html" target="_blank">Jonathan Harrington</a> and <a href="https://johannacronenberg.github.io/" target="_blank">Johanna Cronenberg</a> on turning previous course notes and teaching materials on the EMU-SDMS into an online book-length tutorial. Chapters are being published <a href="https://rpuggaardrode.github.io/emuintro/" target="_blank">here</a> as they become available.</p>
+<p>For a forthcoming paper written with <a href="https://www.researchgate.net/profile/Kathleen-Jepson" target="_blank">Kathleen Jepson</a> and <a href="https://www.linguistik.uzh.ch/en/about/mitglieder/John-Mansfield.html" target="_blank">John Mansfield</a>, I developed a tool in R to automatically identify instances of sustained stylized prosody in corpora of Australian aboriginal narratives.</p>
+<p>I’ve been working on a general pipeline for quickly processing acoustic data in R (calling scripts to do forced alignment, measuring VOT, getting voice quality measures, creating an EMU database). I have a lot of convenience functions in various scattered around various public data analysis scripts for e.g.&nbsp;generating multitaper spectra in bulk and visualizing functional PCA, spatial generalized additive models, and growth curve analysis outputs. I’ve written a <a href="https://rpuggaardrode.github.io/multitaper-tutorial/" target="_blank">tutorial on generating multitaper spectra in R</a> which might be published on <a href="https://lingmethodshub.github.io" target="'_blank">Linguistics Methods Hub</a> at some point.</p>
 
 <div class="no-row-height column-margin column-container"><div class="">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="img/phonplot.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Puggaard-Rode forthc.</figcaption>
+<figcaption class="figure-caption"><a href="https://github.com/rpuggaardrode/praatpicture" target="_blank">Puggaard-Rode 2023</a></figcaption>
 </figure>
 </div>
-</div></div><p>I have a lot of convenience functions in various scattered around various public data analysis scripts for e.g.&nbsp;generating multitaper spectra in bulk and visualizing functional PCA and spatial generalized additive models.</p>
-</section>
+</div></div></section>
 <section id="qcv" class="level2 page-columns page-full">
 <h2 class="anchored" data-anchor-id="qcv">Q–CV</h2>
 <p>My PhD advisors <a href="https://www.universiteitleiden.nl/en/staffmembers/janet-grijzenhout#tab-1" target="_blank">Janet Grijzenhout</a> and <a href="https://www.universiteitleiden.nl/en/staffmembers/bert-botma#tab-1" target="_blank">Bert Botma</a> and I have been working on an extension of the representational <a href="https://linguistics.berkeley.edu/qtheory/" target="_blank">Q-theory</a> which we call Q–CV. The basic idea is that the subsegmental units from Q-theory are reinterpreted as components which are already encoded as something like basic major class features. In a <a href="https://doi.org/10.1093/oso/9780198791126.003.0012" target="_blank">recent paper</a>, we derive a great range of phonological stop contrasts using Q–CV and show how phonological processes can be shown in the framework.</p>

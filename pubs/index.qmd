@@ -117,6 +117,8 @@ Steensig, Jakob, Tina Mølgaard, **Rasmus Puggaard Hansen**, Emilie Tholstrup, N
 
 ### Posters
 
+**Puggaard-Rode, Rasmus**. "`praatpicture`. A library for making flexible Praat Picture-style figures in R", *International Seminar on Speech Production* 13, May 13--17, L'Escandille, Autrans--Méaudre en Vercors.
+
 Tan, Maryann, James Kirby & **Rasmus Puggaard-Rode**. "Investigating the effects of laryngeal contrasts on vowel fundamental frequency in Central Swedish stop consonants", *Fonologi i Norden* 9, February 23--24, Stockholm University. [abstract](https://rasmuspuggaard.files.wordpress.com/2024/02/2024_fino_swe.pdf){target='_blank'}
 
 Jørgensen, Henrik, **Rasmus Puggaard-Rode** & Camilla Søballe Horslund. "The phonemic aspects of Glossematics in a present-day light", *Edinburgh Symposium on Historical Phonology*, December 4--5, 2023, University of Edinburgh. [abstract](https://rasmuspuggaard.files.wordpress.com/2023/09/2023_eshp.pdf){target='_blank'} | [poster](https://rasmuspuggaard.files.wordpress.com/2023/12/2023_eshp_poster.pdf){target='_blank'}

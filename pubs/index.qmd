@@ -39,7 +39,7 @@ Steensig, Jakob, Karen Kiil Brøcker, Caroline Grønkjær, Magnus Glenvad Tind H
 
 ### Articles in conference proceedings
 
-**Puggaard-Rode, Rasmus**. (2023). The /t/ release in Jutland Danish. Decomposing the spectrum with functional PCA. In Radek Skarnitzl & Jan Volín (eds.), *Proceedings of the 20th International Congress of Phonetic Sciences*, 3262--3266. Guarant. [pdf](https://rpuggaardrode.github.io/icphs2023/index.pdf){target='_blank'} | [html](https://rpuggaardrode.github.io/icphs2023/){target='_blank'}
+**Puggaard-Rode, Rasmus**. 2023. The /t/ release in Jutland Danish. Decomposing the spectrum with functional PCA. In Radek Skarnitzl & Jan Volín (eds.), *Proceedings of the 20th International Congress of Phonetic Sciences*, 3262--3266. Guarant. [pdf](https://rpuggaardrode.github.io/icphs2023/index.pdf){target='_blank'} | [html](https://rpuggaardrode.github.io/icphs2023/){target='_blank'}
 
 Horslund, Camilla Søballe, Henrik Jørgensen & **Rasmus Puggaard**. 2021. En alternativ, fonetisk baseret fonemanalyse af det danske konsonantsystem. In Yonatan Goldshtein, Inger Schoonderbeek Hansen & Tina Thode Hougaard (eds.), *18. møde om udforskningen af dansk sprog*, 251--267. Aarhus University. [pdf](https://rasmuspuggaard.files.wordpress.com/2021/09/horslund-et-al-2021_en-alternativ-fonetisk-baseret-fonemanalyse-af-det-danske-konsonantsystem.pdf){target='_blank'} | [full volume](https://projekter.au.dk/fileadmin/projekter/Muds.dk/rapporter/MUDS_18.pdf){target='_blank'}
 
@@ -66,7 +66,7 @@ Goldshtein, Yonatan & **Rasmus Puggaard**. 2019. Overblik over danske dialektopt
 **Puggaard-Rode, Rasmus** & Francesco Burroni. "Articulation of the Danish soft d. A pilot study using electromagnetic articulography". *Fonologi i Norden* 9, February 23--24, 2024, Stockholm University. [abstract](https://rasmuspuggaard.files.wordpress.com/2024/02/2024_fino_ema.pdf){target='_blank'}
 
 [see [Puggaard-Rode 2023a: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'} and [Puggaard-Rode 2023b](https://rpuggaardrode.github.io/icphs2023/){target='_blank'}]{.aside}
-**Puggaard-Rode, Rasmus**. "The /t/ release in Jutland Danish. Decomposing the spectrum with functional PCA". *International Congress of Phonetic Sciences* 20, August 7--11, 2023, Prague Congress Center. [slides](https://rasmuspuggaard.files.wordpress.com/2023/08/2023_icphs_slides.pdf){target='_blank'} | [paper](https://rpuggaardrode.github.io/icphs23){target='_blank'}
+**Puggaard-Rode, Rasmus**. "The /t/ release in Jutland Danish. Decomposing the spectrum with functional PCA". *International Congress of Phonetic Sciences* 20, August 7--11, 2023, Prague Congress Center. [slides](https://rasmuspuggaard.files.wordpress.com/2023/08/2023_icphs_slides.pdf){target='_blank'} | [paper](https://rpuggaardrode.github.io/icphs2023){target='_blank'}
 
 [see [Goldshtein & Puggaard 2019](https://rasmuspuggaard.files.wordpress.com/2020/07/2019_ordsag.pdf){target='_blank'}, [Puggaard 2021](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target='_blank'}, and [Puggaard-Rode 2023: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
 **Puggaard-Rode, Rasmus**. "Covariation between fine phonetic detail and outcomes of sound change in the microtypology of Jutland Danish dialects". *Hanyang International Symposium on Phonetics and Cognitive Sciences of Language* 3, May 26--27, 2023, Hanyang University, Seoul. [abstract](https://rasmuspuggaard.files.wordpress.com/2023/03/2023_hisphoncog.pdf){target='_blank'} | [slides](https://rasmuspuggaard.files.wordpress.com/2023/05/2023_hisphoncog_slides.pdf){target='_blank'}
@@ -117,7 +117,8 @@ Steensig, Jakob, Tina Mølgaard, **Rasmus Puggaard Hansen**, Emilie Tholstrup, N
 
 ### Posters
 
-**Puggaard-Rode, Rasmus**. "`praatpicture`. A library for making flexible Praat Picture-style figures in R", *International Seminar on Speech Production* 13, May 13--17, 2024, L'Escandille, Autrans--Méaudre en Vercors.
+[see [Puggaard-Rode 2023--2024](https://github.com/rpuggaardrode/praatpicture){target='_blank'}]{.aside}
+**Puggaard-Rode, Rasmus**. "`praatpicture`. A library for making flexible Praat Picture-style figures in R", *International Seminar on Speech Production* 13, May 13--17, 2024, L'Escandille, Autrans--Méaudre en Vercors. [abstract](https://rasmuspuggaard.files.wordpress.com/2024/02/2024_issp.pdf){target='_blank'}
 
 Tan, Maryann, James Kirby & **Rasmus Puggaard-Rode**. "Investigating the effects of laryngeal contrasts on vowel fundamental frequency in Central Swedish stop consonants", *Fonologi i Norden* 9, February 23--24, 2024, Stockholm University. [abstract](https://rasmuspuggaard.files.wordpress.com/2024/02/2024_fino_swe.pdf){target='_blank'}
 
@@ -153,8 +154,10 @@ Steensig, Jakob & **Rasmus Puggaard**. “A syntax for conversation. Social acti
 
 ### Departmental talks and guest lectures
 
+[see [Puggaard-Rode 2023--2024](https://github.com/rpuggaardrode/praatpicture){target='_blank'}]{.aside}
 **Puggaard-Rode, Rasmus**. "Introducing `praatpicture`, an R package for people who like the way Praat's figures look but would prefer not to make them in Praat", Institute for Phonetics and Speech Processing PhD and Postdoc Kolloquium, February 1, 2024, Ludwig Maximilian University of Munich.
 
+[see [Puggaard-Rode 2023--2024](https://github.com/rpuggaardrode/praatpicture){target='_blank'}]{.aside}
 **Puggaard-Rode, Rasmus**. `praatpicture` demonstration. December 7, 2023, Lancaster University Phonetics Lab.
 
 [see [Goldshtein & Puggaard 2019](https://rasmuspuggaard.files.wordpress.com/2020/07/2019_ordsag.pdf){target='_blank'}, [Puggaard 2021](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target='_blank'}, and [Puggaard-Rode 2023: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
@@ -203,7 +206,7 @@ Grijzenhout, Janet, **Rasmus Puggaard** & Bert Botma. “On pees and bees”, op
 
 ### Software
 
-`praatpicture`. *Make Praat Picture style plots of acoustic data*. R package version 0.1.0 (August 2023--January 2024) [Available on GitHub](https://github.com/rpuggaardrode/praatpicture){target='_blank'}.
+`praatpicture`. *Make Praat Picture style plots of acoustic data*. R package version 0.6.0 (August 2023--January 2024) [Available on GitHub](https://github.com/rpuggaardrode/praatpicture){target='_blank'}.
 
 `emuhelpeR`. *Convenience functions for working with* `emuR`. R package version 0.1.5 (January 2023--January 2024). [Available on GitHub](https://github.com/rpuggaardrode/emuhelpeR){target='_blank'}.
 

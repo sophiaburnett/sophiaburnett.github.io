@@ -63,7 +63,7 @@ Goldshtein, Yonatan & **Rasmus Puggaard**. 2019. Overblik over danske dialektopt
 
 ### Conference and workshop presentations
 
-**Puggaard-Rode, Rasmus** & Francesco Burroni. "Articulation of the Danish soft d. A pilot study using electromagnetic articulography". *Fonologi i Norden* 9, February 23--24, 2024, Stockholm University. [abstract](https://rasmuspuggaard.files.wordpress.com/2024/02/2024_fino_ema.pdf){target='_blank'}
+**Puggaard-Rode, Rasmus** & Francesco Burroni. "Articulation of the Danish soft d. A pilot study using electromagnetic articulography". *Fonologi i Norden* 9, February 23--24, 2024, Stockholm University. [abstract](https://rasmuspuggaard.files.wordpress.com/2024/02/2024_fino_ema.pdf){target='_blank'} | [slides](https://docs.google.com/presentation/d/1lhkyudvFLol1VY0WZOnSol8ewAOZAteIXMFxZZM1-dE/edit?usp=sharing){target='_blank'}
 
 [see [Puggaard-Rode 2023a: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'} and [Puggaard-Rode 2023b](https://rpuggaardrode.github.io/icphs2023/){target='_blank'}]{.aside}
 **Puggaard-Rode, Rasmus**. "The /t/ release in Jutland Danish. Decomposing the spectrum with functional PCA". *International Congress of Phonetic Sciences* 20, August 7--11, 2023, Prague Congress Center. [slides](https://rasmuspuggaard.files.wordpress.com/2023/08/2023_icphs_slides.pdf){target='_blank'} | [paper](https://rpuggaardrode.github.io/icphs2023){target='_blank'}
@@ -120,7 +120,7 @@ Steensig, Jakob, Tina Mølgaard, **Rasmus Puggaard Hansen**, Emilie Tholstrup, N
 [see [Puggaard-Rode 2023--2024](https://github.com/rpuggaardrode/praatpicture){target='_blank'}]{.aside}
 **Puggaard-Rode, Rasmus**. "`praatpicture`. A library for making flexible Praat Picture-style figures in R", *International Seminar on Speech Production* 13, May 13--17, 2024, L'Escandille, Autrans--Méaudre en Vercors. [abstract](https://rasmuspuggaard.files.wordpress.com/2024/02/2024_issp.pdf){target='_blank'}
 
-Tan, Maryann, James Kirby & **Rasmus Puggaard-Rode**. "Investigating the effects of laryngeal contrasts on vowel fundamental frequency in Central Swedish stop consonants", *Fonologi i Norden* 9, February 23--24, 2024, Stockholm University. [abstract](https://rasmuspuggaard.files.wordpress.com/2024/02/2024_fino_swe.pdf){target='_blank'}
+Tan, Maryann, James Kirby & **Rasmus Puggaard-Rode**. "Investigating the effects of laryngeal contrasts on vowel fundamental frequency in Central Swedish stop consonants", *Fonologi i Norden* 9, February 23--24, 2024, Stockholm University. [abstract](https://rasmuspuggaard.files.wordpress.com/2024/02/2024_fino_swe.pdf){target='_blank'} | [poster](https://rasmuspuggaard.files.wordpress.com/2024/03/2024_fino_poster.pdf){target='_blank'}
 
 Jørgensen, Henrik, **Rasmus Puggaard-Rode** & Camilla Søballe Horslund. "The phonemic aspects of Glossematics in a present-day light", *Edinburgh Symposium on Historical Phonology*, December 4--5, 2023, University of Edinburgh. [abstract](https://rasmuspuggaard.files.wordpress.com/2023/09/2023_eshp.pdf){target='_blank'} | [poster](https://rasmuspuggaard.files.wordpress.com/2023/12/2023_eshp_poster.pdf){target='_blank'}
 

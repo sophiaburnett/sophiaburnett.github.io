@@ -10,5 +10,5 @@ title: " "
 
 **Offsetting love and hate: The prosodic effects of the non-standard 1sg in tweets to Boris Johnson and Jeremy Corbyn over four days of the UK general election.**  
 [PDF](degruyter.pdf)   
-   To cite in APA: _Burnett, S. (2022)._ Offsetting love and hate: The prosodic effects of the non-standard 1sg in tweets to Boris Johnson and Jeremy Corbyn over four days of the UK general election. European Journal of Applied Linguistics, 10(2), 388-414.  
+   To cite in APA: Burnett, S. (2022). Offsetting love and hate: The prosodic effects of the non-standard 1sg in tweets to Boris Johnson and Jeremy Corbyn over four days of the UK general election. _European Journal of Applied Linguistics_, 10(2), 388-414.  
 

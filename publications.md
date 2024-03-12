@@ -3,7 +3,7 @@ layout: page
 title: " "
 
 ---
-[White Flag Typography]{: style="color: black"}
+White Flag Typography
 [PDF](Burnett_White Flag Typography_2024.pdf) 
 
 

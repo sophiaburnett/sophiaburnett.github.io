@@ -3,9 +3,13 @@ layout: page
 title: " "
 
 ---
+**The embodied non-standard 1SG as a potential marker for reflective function impairment in Anorexia Nervosa sufferers.**
+[PDF](https://osf.io/preprints/osf/gz72t)
+   To cite in APA: Burnett, S. (2024, April 1). The embodied non-standard 1SG as a potential marker for reflective function impairment in Anorexia Nervosa sufferers. https://doi.org/10.31219/osf.io/gz72t
+
 **White Flag Typography**  
 [PDF](Burnett_White Flag Typography_2024.pdf)   
-   To cite in APA: Burnett, S. (2024). White Flag Typography. [Doctoral Dissertation, CY Cergy Paris Université]  
+   To cite in APA: Burnett, S. (2023). White Flag Typography. [Doctoral Dissertation, CY Cergy Paris Université]  
 
 
 **Offsetting love and hate: The prosodic effects of the non-standard 1sg in tweets to Boris Johnson and Jeremy Corbyn over four days of the UK general election.**  

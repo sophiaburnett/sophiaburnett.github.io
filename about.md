@@ -5,7 +5,9 @@ Layout: Page
 
 **My current research:** <br>Embodied linguistic attenuation.<br>Objectified pronoun modification and internalized misogyny.<br>Increased formalisation of the non-standard 1SG.<br>
 
-I can be contacted [here](mailto:sophianburnett@gmail.com)<br>\#linguistic_anthropology \#discourse_analysis \#sociophonetics  \#social meaning  \#semantics  \#embodiment 
+I can be contacted [here](mailto:sophianburnett@gmail.com)<br>
+
+#linguistic_anthropology \#discourse_analysis \#sociophonetics  \#social meaning  \#semantics  \#embodiment 
 
 
 

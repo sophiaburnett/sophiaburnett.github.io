@@ -8,8 +8,6 @@ I do think AI has the potential to provide amazing assistance to humanity, I als
 ### **LANGUAGE SCIENTIST KLAXON**<br>
 I am looking for specialists of languages other than English or French, who would like to collaborate as researchers on this project; analysing the corresponding data and writing papers as principal authors. Please do get in touch with any questions.
 
-![Dr. Sophia Burnett in front of Hanyang University, Seoul after presenting her research at HisPhonCog 2023. She's so happy doing international level research her left shoulder doesn't even hurt.
-](Sophia_Burnett.jpg)
 
 
 

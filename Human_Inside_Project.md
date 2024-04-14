@@ -6,6 +6,10 @@ I do think AI has the potential to provide amazing assistance to humanity, I als
 ### [**The Human Inside Project**](https://sites.google.com/view/humaninside/home), Part 1 is a citizen science project that will rely on crowdsourced data. Please do participate, it takes between 15 and 30 minutes to complete.<br>
 
 ### **LANGUAGE SCIENTIST KLAXON**<br>
-I am looking for specialists of languages other than English or French, who would like to participate as researchers on this project; analysing the corresponding data and writing papers as principal authors. Please do get in touch.
+I am looking for specialists of languages other than English or French, who would like to collaborate as researchers on this project; analysing the corresponding data and writing papers as principal authors. Please do get in touch with any questions.
+
+![Alt Text](URL)
+
+
 
 

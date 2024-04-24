@@ -6,7 +6,7 @@ Layout: Page
 **Current research:** <br>Embodied linguistic attenuation.<br>Objectified pronoun modification and internalized misogyny.<br>Increased formalisation of the non-standard 1SG.<br>
 The [Human Inside Project](https://sites.google.com/view/humaninside/home) <br>
 
-News <br>
+**News** <br>
 I'll be attending the Manchester Forum in Linguistics on 25th and 26th April, so if you are too, do say hello.
 
 #linguistic_anthropology \#discourse_analysis \#sociophonetics  \#social meaning  \#semantics  \#embodiment 

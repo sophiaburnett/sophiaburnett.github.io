@@ -7,7 +7,7 @@ Layout: Page
 The [Human Inside Project](https://sites.google.com/view/humaninside/home) <br>
 
 **News** <br>
-I'll be attending the Manchester Forum in Linguistics on 25th and 26th April, so if you are too, do say hello.
+I'll be attending the Manchester Forum in Linguistics on 25th and 26th April.
 
 #linguistic_anthropology \#discourse_analysis \#sociophonetics  \#social meaning  \#semantics  \#embodiment 
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: " "
+title: "PEER-REVIEWED PRESENTATIONS "
 ---
 
 {% if site.show_excerpts %}

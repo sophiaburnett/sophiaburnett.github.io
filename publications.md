@@ -13,7 +13,6 @@ title: " "
 2022	**Burnett, S. (2022)** [Offsetting love and hate: The prosodic effects of the non-standard 1sg in tweets to Boris Johnson and Jeremy Corbyn over four days of the UK general election](degruyter.pdf) European Journal of Applied Linguistics., 10(2), 388-414. <br>
 
 **OTHER PUBLICATIONS**<br>
-OTHER PUBLICATIONS
 
 2024	**Burnett, S. (2024, April 14)**. The Human Inside Project, part 1: I'm not a robot. https://doi.org/10.17605/OSF.IO/F2ZM3 [preregistration]
 

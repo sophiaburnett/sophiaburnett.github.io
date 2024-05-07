@@ -17,3 +17,5 @@ title: " "
 2024	**Burnett, S. (2024, April 14)**. The Human Inside Project, part 1: I'm not a robot. [preregistration](https://doi.org/10.17605/OSF.IO/F2ZM3)
 
 2024	**Burnett, S. (2024, April 1)**. [The embodied non-standard 1SG as a potential marker for reflective function impairment in Anorexia Nervosa sufferers](https://doi.org/10.31219/osf.io/gz72t) │ [Dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VV0PXG)
+
+2023  **Burnett, S. (2023)**. [White Flag Typography](https://doi.org/10.31237/osf.io/wzxp3)  [Doctoral Dissertation, CY Cergy Paris Université] Thesis Commons. 

@@ -13,7 +13,6 @@ title: " "
 2022	**Burnett, S. (2022)** [Offsetting love and hate: The prosodic effects of the non-standard 1sg in tweets to Boris Johnson and Jeremy Corbyn over four days of the UK general election](degruyter.pdf) European Journal of Applied Linguistics., 10(2), 388-414. <br>
 
 **OTHER PUBLICATIONS**<br>
-
 2024	**Burnett, S. (2024, April 14)**. The Human Inside Project, part 1: I'm not a robot. Preregistration.<br>[https://doi.org/10.17605/OSF.IO/F2ZM3](https://doi.org/10.17605/OSF.IO/F2ZM3)
 
 2024  **Burnett, S. (2024)** Replication Data for: “The sociophonetically inscribed nonchalance of the non-standard 1SG and its mass media origins”, and “White Flag Typography”, Chapter 3.1., Harvard Dataverse, V1. [https://doi.org/10.7910/DVN/ODOXOZ](https://doi.org/10.7910/DVN/ODOXOZ)

@@ -19,6 +19,8 @@ title: " "
 
 2024  **Burnett, S. (2024)** Replication Data for: “The sociophonetically inscribed nonchalance of the non-standard 1SG and its mass media origins”, and “White Flag Typography”, Chapter 3.1., Harvard Dataverse, V1. [https://doi.org/10.7910/DVN/ODOXOZ](https://doi.org/10.7910/DVN/ODOXOZ)
 
+2024  **Burnett, S. (2024)** The embodied non-standard 1SG as a potential marker for reflective function impairment in Anorexia Nervosa sufferers. [https://doi.org/10.31219/osf.io/gz72t](https://doi.org/10.31219/osf.io/gz72t)
+
 2024  **Burnett, S. (2024)** Data for: "The embodied non-standard 1SG as a potential marker for reflective function impairment in Anorexia Nervosa sufferers", and "White Flag Typography", Ch.7§2", Harvard Dataverse, V2.<br> [https://doi.org/10.7910/DVN/VV0PXG](https://doi.org/10.7910/DVN/VV0PXG)
 
 2023  **Burnett, S. (2023)**. [White Flag Typography](https://doi.org/10.31237/osf.io/wzxp3)  [Doctoral Dissertation, CY Cergy Paris Université] Thesis Commons. 

@@ -9,8 +9,9 @@ Objectified pronoun modification and internalized misogyny.<br>
 Increased formalisation of the non-standard 1SG.<br>
 The [Human Inside Project](https://sites.google.com/view/humaninside/home) <br>
 
+**Previously:** <br> I was a classically trained professional dancer for fifteen years with various companies before returning to college at Paris Sorbonne /Conservatoire Européenne d'Ecriture Audiovisuelle to study French screenwriting. I worked as a script doctor and translator for film, TV, and theatre before retraining to be an English teacher in the French civil service. It is during my teaching master's that I fell more deeply in love with linguistics, and was fortunate to meet my future supervisor
 
-#linguistic_anthropology \#discourse_analysis \#sociophonetics  \#social meaning  \#semantics  \#embodiment 
+#linguistic_anthropology \#discourse_analysis \#sociophonetics  \#social meaning  \#embodiment 
 
 
 

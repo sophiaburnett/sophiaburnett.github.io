@@ -9,7 +9,9 @@ Objectified pronoun modification and internalized misogyny.<br>
 Increased formalisation of the non-standard 1SG.<br>
 The [Human Inside Project](https://sites.google.com/view/humaninside/home) <br>
 
-**Previously:** <br> I was a classically trained dancer and worked for fifteen years with various companies before returning to college at Sorbonne Paris 1/Conservatoire Européenne d'Ecriture Audiovisuelle to study French screenwriting. I worked as a script doctor and translator for film, TV, and theatre, and also published a couple of novels. 
+**Previously:** <br> I was a classically trained dancer and worked for fifteen years with various companies before returning to college at Sorbonne Paris 1/Conservatoire Européenne d'Ecriture Audiovisuelle to study French screenwriting. I worked as a script doctor and translator for film, TV, and theatre, and also published a couple of novels, one of which, a historical fiction titled 'A Useless Mouth' was studied by International section students in France.
+
+**Also:** <br> I have recently got into running after years of loathing, by unleashing the power of music and beats per minute, with which I am able to trick my brain into thinking we are using the body in a very linear-- albeit repetitive--form of dance. Looking forward to the Müggelsee 10K .
 
 #linguistic_anthropology \#discourse_analysis \#sociophonetics  \#social meaning  \#embodiment 
 

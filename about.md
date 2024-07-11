@@ -11,7 +11,7 @@ The [Human Inside Project](https://sites.google.com/view/humaninside/home) <br>
 
 **Previously:** <br> A classically trained dancer, I worked for fifteen years with various companies before joining la Sorbonne Paris 1 │ le Conservatoire Européen d'Ecriture Audiovisuelle to study French screenwriting. I worked as a script doctor and translator for film, TV, theatre, and advertising, and also published a couple of novels, one of which, a historical fiction titled  ['A Useless Mouth'](https://www.amazon.co.uk/Useless-Mouth-Philippa-Knight-trilogy/dp/1731374046) was studied by International section lycéen.nes in France.
 
-**Also:** <br> I have recently got into running after years of loathing, by unleashing the power of music and beats per minute, with which I am able to trick my brain into thinking we are using the body in a very linear--albeit repetitive--form of dance. Looking forward to the Müggelsee 10K in October is an utterance that 2018 me would not have said.
+**Also:** <br> I have recently got into running after years of loathing, by unleashing the power of music and beats per minute, with which I am able to trick my brain into thinking we are using the body in a very linear--albeit repetitive--form of dance. Looking forward to the Müggelsee run in October with my sons and their partners.
 
 #linguistic_anthropology \#discourse_analysis \#sociophonetics  \#social meaning  \#embodiment 
 

@@ -1,5 +1,5 @@
 ---
-title:  "New Ways of Analyzing Variation 52"
+title:  "NWAV52"
 layout: post
 ---
 [New Ways of Analyzing Variation 52. 7-9 Nov 2024]([https://site.hanyang.ac.kr/web/hisphoncog/welcome](https://www.nwavmiami.org/)   

@@ -14,7 +14,7 @@ Artefacts of authenticity: Human post-edition of computer generated texts, under
 **Previously:** <br> Classically trained, I was a professional dancer for fifteen years before joining la Sorbonne Paris 1 │ le Conservatoire Européen d'Ecriture Audiovisuelle to study French screenwriting. I then worked as a script doctor and translator for film, TV, theatre, and advertising, and also published a couple of novels, one of which, a historical fiction titled  ['A Useless Mouth'](https://www.amazon.co.uk/Useless-Mouth-Philippa-Knight-trilogy/dp/1731374046) was studied by International section lycéen.nes in France.
 
 **Also:** <br> I have recently got into running after years of loathing, by unleashing the power of music and bpm, with which I am able to trick my brain into thinking we are using the body in a very linear--albeit repetitive--form of dance. I ran my first ever race at Müggelsee, Berlin on 20th October in a respectable [1hr10](https://www.davengo.com/event/result/18-mueggelsee-halbmarathon-2024/detail/KyAFQ3ubm5x-X03t7KRARSvGJES4wbpw7Z5SJf7ZgoY?extern=true) and raised a few euros for Médecins sans Frontières. The page is [still accepting donations](https://www.justgiving.com/page/10kformsf?utm_campaign=lc_frp_share_transaction_fundraiser_page_launched&utm_content=cfa86e32-8ef2-47ea-8d45-a6bf3881f5d6&utm_medium=email&utm_source=postoffice&utm_term=1728648526648), if you're feeling randomly generous. 
-#linguistic_anthropology \#discourse_analysis \#sociophonetics  \#social meaning  \#embodiment \#AI
+
 
 
 

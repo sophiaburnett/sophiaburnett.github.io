@@ -27,7 +27,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:sophia.burnett@cyu.fr"}
   - {title: Github, icon: github, url: "https://github.com/sophiaburnett"}
-  - {title: BlueSky :  url:"https://bsky.app/profile/sophiaburnett.bsky.social"}
   - {title: Orcid, icon: orcid, url: "https://orcid.org/0000-0001-9073-3301"}
 
 comments:

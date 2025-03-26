@@ -4,7 +4,7 @@ title: " "
 
 ---
 **PEER REVIEWED PUBLICATIONS**<br>
-2024	**Burnett, S. (accepted, June 14th 2024)** The non-standard 1SG and the lessened self, in: P. Monneret., (ed.), Iconicity in Language and Literature, ILL 22nd conference proceedings, Amsterdam, Benjamin.<br>
+2025	**Burnett, S. (accepted, June 14th 2024)** The non-standard 1SG and the lessened self, in: P. Monneret., (ed.), Iconicity in Language and Literature, ILL 22nd conference proceedings, Amsterdam, Benjamin.<br>
 
 2023	**Burnett, S. (2023)** [In My Humble Opinion: The prosodic portrayal of the non-standard 1SG](HISPhonCog2023_P64_Burnett_abstract.pdf). In T. Cho, K. Sahyang, K. Say Young & L-K. Sang Im (eds.) Hanyang International Symposium of Phonetics and Cognitive Sciences of Language. 3 Vol.2 ISBN 2586-7776. pp.196-198. Hanyang University, Korea.<br>
 

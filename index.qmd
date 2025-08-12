@@ -1,5 +1,5 @@
 ---
-title: Rasmus <br> Puggaard-Rode
+title: Sophia <br> Burnett
 about:
   template: trestles
   id: about-block
@@ -7,35 +7,24 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: "mailto:r.puggaard@phonetik.uni-muenchen.de"
-    - text: "{{< iconify la university >}} LMU Munich"
-      href: https://www.en.phonetik.uni-muenchen.de/people/staff/puggaard-rode_rasmus/index.html
+      href: "mailto:sophia.burnett@univ-lorraine.fr"
+    - text: "{{< iconify la university >}} Université de Lorraine"
+      href: https://idea.univ-lorraine.fr/membres/burnett-sophia
     - icon: github
       text: GitHub
-      href: https://github.com/rpuggaardrode
+      href: https://github.com/sophiaburnett
     - text: "{{< iconify academicons google-scholar >}} Scholar"
-      href: https://scholar.google.com/citations?user=HPWSLxAAAAAJ
+      href: https://scholar.google.com/citations?hl=en&user=rkoeUjEAAAAJ
     - text: "{{< iconify academicons researchgate >}} ResearchGate"
-      href: https://www.researchgate.net/profile/Rasmus_Puggaard
+      href: https://www.researchgate.net/profile/Sophia-Burnett?ev=hdr_xprf
     - text: "{{< iconify academicons orcid >}} ORCiD"
-      href: https://orcid.org/0000-0003-4522-9987
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/RPuggaardRode
+      href: https://orcid.org/0000-0001-9073-3301
     - text: "{{< iconify simple-icons bluesky >}} Bluesky"
-      href: https://bsky.app/profile/rpuggaardrode.bsky.social
+      href: https://bsky.app/profile/sophiaburnett.bsky.social
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/rasmus-puggaard-rode-1972957b/
-    - text: "{{< iconify simple-icons letterboxd >}} Letterboxd"
-      href: https://letterboxd.com/rpuggaardrode/
-    - text: "{{< iconify ic outline-live-tv >}} Serializd"
-      href: https://www.serializd.com/user/rpuggaardrode
-    - text: "{{< iconify ri music-fill >}} RateYourMusic"
-      href: https://rateyourmusic.com/~rasmuspuggaard
-    - text: "{{< iconify simple-icons untappd >}} Untappd"
-      href: https://untappd.com/user/Rasmuspuggaard
----
+      href: https://www.linkedin.com/in/sophia-burnett-7989692b8/
+  
 
 :::{#about-block}
 

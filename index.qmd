@@ -7,9 +7,9 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: "mailto:sophia.burnett@univ-lorraine.fr"
-    - text: "{{< iconify la university >}} Université de Lorraine"
-      href: https://idea.univ-lorraine.fr/membres/burnett-sophia
+      href: "mailto:sophia.burnett@utoulouse.fr"
+    - text: "{{< iconify la university >}} Université de Toulouse"
+      href: https://lairdil.univ-tlse3.fr/burnett-sophia
     - icon: github
       text: GitHub
       href: https://github.com/sophiaburnett
